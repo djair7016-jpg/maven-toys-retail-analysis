@@ -1,0 +1,1594 @@
+Store_ID,Product_ID,Stock_On_Hand,Product_Name,Product_Category,Product_Cost,Product_Price,Store_Name,Store_City,Store_Location,Store_Open_Date,Inventory_Value
+1,1,27,Action Figure,Toys,9.99,15.99,Maven Toys Guadalajara 1,Guadalajara,Residential,1992-09-18,269.73
+1,2,0,Animal Figures,Toys,9.99,12.99,Maven Toys Guadalajara 1,Guadalajara,Residential,1992-09-18,0.0
+1,3,32,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Guadalajara 1,Guadalajara,Residential,1992-09-18,63.68
+1,4,6,Chutes & Ladders,Games,9.99,12.99,Maven Toys Guadalajara 1,Guadalajara,Residential,1992-09-18,59.94
+1,5,0,Classic Dominoes,Games,7.99,9.99,Maven Toys Guadalajara 1,Guadalajara,Residential,1992-09-18,0.0
+1,6,79,Colorbuds,Electronics,6.99,14.99,Maven Toys Guadalajara 1,Guadalajara,Residential,1992-09-18,552.21
+1,7,5,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Guadalajara 1,Guadalajara,Residential,1992-09-18,59.95
+1,8,63,Deck Of Cards,Games,3.99,6.99,Maven Toys Guadalajara 1,Guadalajara,Residential,1992-09-18,251.37
+1,9,12,Dino Egg,Toys,9.99,10.99,Maven Toys Guadalajara 1,Guadalajara,Residential,1992-09-18,119.88
+1,10,22,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Guadalajara 1,Guadalajara,Residential,1992-09-18,241.78
+1,11,19,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Guadalajara 1,Guadalajara,Residential,1992-09-18,208.81
+1,12,3,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Guadalajara 1,Guadalajara,Residential,1992-09-18,26.97
+1,13,12,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Guadalajara 1,Guadalajara,Residential,1992-09-18,179.88
+1,14,3,Glass Marbles,Games,5.99,10.99,Maven Toys Guadalajara 1,Guadalajara,Residential,1992-09-18,17.97
+1,15,2,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Guadalajara 1,Guadalajara,Residential,1992-09-18,7.98
+1,16,8,Jenga,Games,2.99,9.99,Maven Toys Guadalajara 1,Guadalajara,Residential,1992-09-18,23.92
+1,17,7,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Guadalajara 1,Guadalajara,Residential,1992-09-18,97.93
+1,18,11,Lego Bricks,Toys,34.99,39.99,Maven Toys Guadalajara 1,Guadalajara,Residential,1992-09-18,384.89000000000004
+1,19,25,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Guadalajara 1,Guadalajara,Residential,1992-09-18,349.75
+1,20,11,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,Maven Toys Guadalajara 1,Guadalajara,Residential,1992-09-18,98.89
+1,21,21,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Guadalajara 1,Guadalajara,Residential,1992-09-18,146.79
+1,22,2,Monopoly,Games,13.99,19.99,Maven Toys Guadalajara 1,Guadalajara,Residential,1992-09-18,27.98
+1,23,1,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Guadalajara 1,Guadalajara,Residential,1992-09-18,4.99
+1,24,9,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Guadalajara 1,Guadalajara,Residential,1992-09-18,134.91
+1,25,54,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Guadalajara 1,Guadalajara,Residential,1992-09-18,107.46
+1,26,13,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Guadalajara 1,Guadalajara,Residential,1992-09-18,272.87
+1,27,33,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Guadalajara 1,Guadalajara,Residential,1992-09-18,131.67000000000002
+1,28,10,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Guadalajara 1,Guadalajara,Residential,1992-09-18,39.900000000000006
+1,29,4,Plush Pony,Toys,8.99,19.99,Maven Toys Guadalajara 1,Guadalajara,Residential,1992-09-18,35.96
+1,30,44,Rubik's Cube,Games,17.99,19.99,Maven Toys Guadalajara 1,Guadalajara,Residential,1992-09-18,791.56
+1,31,7,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Guadalajara 1,Guadalajara,Residential,1992-09-18,55.93
+1,32,4,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Guadalajara 1,Guadalajara,Residential,1992-09-18,47.96
+1,33,2,Teddy Bear,Toys,10.99,12.99,Maven Toys Guadalajara 1,Guadalajara,Residential,1992-09-18,21.98
+1,34,0,Toy Robot,Electronics,20.99,25.99,Maven Toys Guadalajara 1,Guadalajara,Residential,1992-09-18,0.0
+1,35,12,Uno Card Game,Games,3.99,7.99,Maven Toys Guadalajara 1,Guadalajara,Residential,1992-09-18,47.88
+2,1,0,Action Figure,Toys,9.99,15.99,Maven Toys Monterrey 1,Monterrey,Residential,1995-04-27,0.0
+2,2,6,Animal Figures,Toys,9.99,12.99,Maven Toys Monterrey 1,Monterrey,Residential,1995-04-27,59.94
+2,3,18,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Monterrey 1,Monterrey,Residential,1995-04-27,35.82
+2,6,6,Colorbuds,Electronics,6.99,14.99,Maven Toys Monterrey 1,Monterrey,Residential,1995-04-27,41.94
+2,7,14,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Monterrey 1,Monterrey,Residential,1995-04-27,167.86
+2,8,76,Deck Of Cards,Games,3.99,6.99,Maven Toys Monterrey 1,Monterrey,Residential,1995-04-27,303.24
+2,9,0,Dino Egg,Toys,9.99,10.99,Maven Toys Monterrey 1,Monterrey,Residential,1995-04-27,0.0
+2,10,10,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Monterrey 1,Monterrey,Residential,1995-04-27,109.9
+2,11,0,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Monterrey 1,Monterrey,Residential,1995-04-27,0.0
+2,12,2,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Monterrey 1,Monterrey,Residential,1995-04-27,17.98
+2,13,3,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Monterrey 1,Monterrey,Residential,1995-04-27,44.97
+2,14,21,Glass Marbles,Games,5.99,10.99,Maven Toys Monterrey 1,Monterrey,Residential,1995-04-27,125.79
+2,15,20,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Monterrey 1,Monterrey,Residential,1995-04-27,79.80000000000001
+2,17,12,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Monterrey 1,Monterrey,Residential,1995-04-27,167.88
+2,18,38,Lego Bricks,Toys,34.99,39.99,Maven Toys Monterrey 1,Monterrey,Residential,1995-04-27,1329.6200000000001
+2,19,35,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Monterrey 1,Monterrey,Residential,1995-04-27,489.65000000000003
+2,21,20,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Monterrey 1,Monterrey,Residential,1995-04-27,139.8
+2,23,8,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Monterrey 1,Monterrey,Residential,1995-04-27,39.92
+2,24,39,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Monterrey 1,Monterrey,Residential,1995-04-27,584.61
+2,25,32,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Monterrey 1,Monterrey,Residential,1995-04-27,63.68
+2,26,12,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Monterrey 1,Monterrey,Residential,1995-04-27,251.88
+2,27,30,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Monterrey 1,Monterrey,Residential,1995-04-27,119.7
+2,28,2,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Monterrey 1,Monterrey,Residential,1995-04-27,7.98
+2,29,5,Plush Pony,Toys,8.99,19.99,Maven Toys Monterrey 1,Monterrey,Residential,1995-04-27,44.95
+2,30,50,Rubik's Cube,Games,17.99,19.99,Maven Toys Monterrey 1,Monterrey,Residential,1995-04-27,899.4999999999999
+2,31,18,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Monterrey 1,Monterrey,Residential,1995-04-27,143.82
+2,32,10,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Monterrey 1,Monterrey,Residential,1995-04-27,119.9
+2,33,11,Teddy Bear,Toys,10.99,12.99,Maven Toys Monterrey 1,Monterrey,Residential,1995-04-27,120.89
+2,34,18,Toy Robot,Electronics,20.99,25.99,Maven Toys Monterrey 1,Monterrey,Residential,1995-04-27,377.82
+3,1,17,Action Figure,Toys,9.99,15.99,Maven Toys Guadalajara 2,Guadalajara,Commercial,1999-12-27,169.83
+3,2,8,Animal Figures,Toys,9.99,12.99,Maven Toys Guadalajara 2,Guadalajara,Commercial,1999-12-27,79.92
+3,3,35,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Guadalajara 2,Guadalajara,Commercial,1999-12-27,69.65
+3,6,21,Colorbuds,Electronics,6.99,14.99,Maven Toys Guadalajara 2,Guadalajara,Commercial,1999-12-27,146.79
+3,7,8,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Guadalajara 2,Guadalajara,Commercial,1999-12-27,95.92
+3,8,44,Deck Of Cards,Games,3.99,6.99,Maven Toys Guadalajara 2,Guadalajara,Commercial,1999-12-27,175.56
+3,9,4,Dino Egg,Toys,9.99,10.99,Maven Toys Guadalajara 2,Guadalajara,Commercial,1999-12-27,39.96
+3,10,54,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Guadalajara 2,Guadalajara,Commercial,1999-12-27,593.46
+3,11,13,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Guadalajara 2,Guadalajara,Commercial,1999-12-27,142.87
+3,12,4,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Guadalajara 2,Guadalajara,Commercial,1999-12-27,35.96
+3,13,8,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Guadalajara 2,Guadalajara,Commercial,1999-12-27,119.92
+3,14,4,Glass Marbles,Games,5.99,10.99,Maven Toys Guadalajara 2,Guadalajara,Commercial,1999-12-27,23.96
+3,15,0,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Guadalajara 2,Guadalajara,Commercial,1999-12-27,0.0
+3,17,1,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Guadalajara 2,Guadalajara,Commercial,1999-12-27,13.99
+3,18,52,Lego Bricks,Toys,34.99,39.99,Maven Toys Guadalajara 2,Guadalajara,Commercial,1999-12-27,1819.48
+3,19,33,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Guadalajara 2,Guadalajara,Commercial,1999-12-27,461.67
+3,21,3,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Guadalajara 2,Guadalajara,Commercial,1999-12-27,20.97
+3,23,13,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Guadalajara 2,Guadalajara,Commercial,1999-12-27,64.87
+3,24,15,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Guadalajara 2,Guadalajara,Commercial,1999-12-27,224.85
+3,25,44,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Guadalajara 2,Guadalajara,Commercial,1999-12-27,87.56
+3,26,13,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Guadalajara 2,Guadalajara,Commercial,1999-12-27,272.87
+3,27,23,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Guadalajara 2,Guadalajara,Commercial,1999-12-27,91.77000000000001
+3,28,10,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Guadalajara 2,Guadalajara,Commercial,1999-12-27,39.900000000000006
+3,29,0,Plush Pony,Toys,8.99,19.99,Maven Toys Guadalajara 2,Guadalajara,Commercial,1999-12-27,0.0
+3,30,43,Rubik's Cube,Games,17.99,19.99,Maven Toys Guadalajara 2,Guadalajara,Commercial,1999-12-27,773.5699999999999
+3,31,29,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Guadalajara 2,Guadalajara,Commercial,1999-12-27,231.71
+3,32,4,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Guadalajara 2,Guadalajara,Commercial,1999-12-27,47.96
+3,33,4,Teddy Bear,Toys,10.99,12.99,Maven Toys Guadalajara 2,Guadalajara,Commercial,1999-12-27,43.96
+3,34,7,Toy Robot,Electronics,20.99,25.99,Maven Toys Guadalajara 2,Guadalajara,Commercial,1999-12-27,146.92999999999998
+4,1,2,Action Figure,Toys,9.99,15.99,Maven Toys Saltillo 1,Saltillo,Downtown,2000-01-01,19.98
+4,2,18,Animal Figures,Toys,9.99,12.99,Maven Toys Saltillo 1,Saltillo,Downtown,2000-01-01,179.82
+4,3,6,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Saltillo 1,Saltillo,Downtown,2000-01-01,11.94
+4,4,2,Chutes & Ladders,Games,9.99,12.99,Maven Toys Saltillo 1,Saltillo,Downtown,2000-01-01,19.98
+4,5,14,Classic Dominoes,Games,7.99,9.99,Maven Toys Saltillo 1,Saltillo,Downtown,2000-01-01,111.86
+4,6,44,Colorbuds,Electronics,6.99,14.99,Maven Toys Saltillo 1,Saltillo,Downtown,2000-01-01,307.56
+4,7,9,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Saltillo 1,Saltillo,Downtown,2000-01-01,107.91
+4,8,15,Deck Of Cards,Games,3.99,6.99,Maven Toys Saltillo 1,Saltillo,Downtown,2000-01-01,59.85
+4,9,27,Dino Egg,Toys,9.99,10.99,Maven Toys Saltillo 1,Saltillo,Downtown,2000-01-01,269.73
+4,10,8,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Saltillo 1,Saltillo,Downtown,2000-01-01,87.92
+4,11,3,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Saltillo 1,Saltillo,Downtown,2000-01-01,32.97
+4,12,7,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Saltillo 1,Saltillo,Downtown,2000-01-01,62.93
+4,13,4,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Saltillo 1,Saltillo,Downtown,2000-01-01,59.96
+4,14,4,Glass Marbles,Games,5.99,10.99,Maven Toys Saltillo 1,Saltillo,Downtown,2000-01-01,23.96
+4,15,9,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Saltillo 1,Saltillo,Downtown,2000-01-01,35.910000000000004
+4,16,8,Jenga,Games,2.99,9.99,Maven Toys Saltillo 1,Saltillo,Downtown,2000-01-01,23.92
+4,17,2,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Saltillo 1,Saltillo,Downtown,2000-01-01,27.98
+4,18,17,Lego Bricks,Toys,34.99,39.99,Maven Toys Saltillo 1,Saltillo,Downtown,2000-01-01,594.83
+4,19,2,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Saltillo 1,Saltillo,Downtown,2000-01-01,27.98
+4,20,13,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,Maven Toys Saltillo 1,Saltillo,Downtown,2000-01-01,116.87
+4,21,24,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Saltillo 1,Saltillo,Downtown,2000-01-01,167.76
+4,22,5,Monopoly,Games,13.99,19.99,Maven Toys Saltillo 1,Saltillo,Downtown,2000-01-01,69.95
+4,23,26,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Saltillo 1,Saltillo,Downtown,2000-01-01,129.74
+4,24,20,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Saltillo 1,Saltillo,Downtown,2000-01-01,299.8
+4,25,18,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Saltillo 1,Saltillo,Downtown,2000-01-01,35.82
+4,26,10,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Saltillo 1,Saltillo,Downtown,2000-01-01,209.89999999999998
+4,27,19,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Saltillo 1,Saltillo,Downtown,2000-01-01,75.81
+4,28,6,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Saltillo 1,Saltillo,Downtown,2000-01-01,23.94
+4,29,20,Plush Pony,Toys,8.99,19.99,Maven Toys Saltillo 1,Saltillo,Downtown,2000-01-01,179.8
+4,30,28,Rubik's Cube,Games,17.99,19.99,Maven Toys Saltillo 1,Saltillo,Downtown,2000-01-01,503.71999999999997
+4,31,35,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Saltillo 1,Saltillo,Downtown,2000-01-01,279.65000000000003
+4,32,6,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Saltillo 1,Saltillo,Downtown,2000-01-01,71.94
+4,33,2,Teddy Bear,Toys,10.99,12.99,Maven Toys Saltillo 1,Saltillo,Downtown,2000-01-01,21.98
+4,34,0,Toy Robot,Electronics,20.99,25.99,Maven Toys Saltillo 1,Saltillo,Downtown,2000-01-01,0.0
+4,35,4,Uno Card Game,Games,3.99,7.99,Maven Toys Saltillo 1,Saltillo,Downtown,2000-01-01,15.96
+5,1,8,Action Figure,Toys,9.99,15.99,Maven Toys La Paz 1,La Paz,Downtown,2001-05-31,79.92
+5,2,14,Animal Figures,Toys,9.99,12.99,Maven Toys La Paz 1,La Paz,Downtown,2001-05-31,139.86
+5,3,3,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys La Paz 1,La Paz,Downtown,2001-05-31,5.97
+5,6,12,Colorbuds,Electronics,6.99,14.99,Maven Toys La Paz 1,La Paz,Downtown,2001-05-31,83.88
+5,7,30,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys La Paz 1,La Paz,Downtown,2001-05-31,359.7
+5,8,27,Deck Of Cards,Games,3.99,6.99,Maven Toys La Paz 1,La Paz,Downtown,2001-05-31,107.73
+5,9,31,Dino Egg,Toys,9.99,10.99,Maven Toys La Paz 1,La Paz,Downtown,2001-05-31,309.69
+5,10,39,Dinosaur Figures,Toys,10.99,14.99,Maven Toys La Paz 1,La Paz,Downtown,2001-05-31,428.61
+5,11,0,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys La Paz 1,La Paz,Downtown,2001-05-31,0.0
+5,12,0,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys La Paz 1,La Paz,Downtown,2001-05-31,0.0
+5,13,17,Gamer Headphones,Electronics,14.99,20.99,Maven Toys La Paz 1,La Paz,Downtown,2001-05-31,254.83
+5,14,14,Glass Marbles,Games,5.99,10.99,Maven Toys La Paz 1,La Paz,Downtown,2001-05-31,83.86
+5,15,0,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys La Paz 1,La Paz,Downtown,2001-05-31,0.0
+5,17,7,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys La Paz 1,La Paz,Downtown,2001-05-31,97.93
+5,18,9,Lego Bricks,Toys,34.99,39.99,Maven Toys La Paz 1,La Paz,Downtown,2001-05-31,314.91
+5,19,18,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys La Paz 1,La Paz,Downtown,2001-05-31,251.82
+5,21,0,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys La Paz 1,La Paz,Downtown,2001-05-31,0.0
+5,23,11,Mr. Potatohead,Toys,4.99,9.99,Maven Toys La Paz 1,La Paz,Downtown,2001-05-31,54.89
+5,24,60,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys La Paz 1,La Paz,Downtown,2001-05-31,899.4
+5,25,9,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys La Paz 1,La Paz,Downtown,2001-05-31,17.91
+5,26,4,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys La Paz 1,La Paz,Downtown,2001-05-31,83.96
+5,27,45,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys La Paz 1,La Paz,Downtown,2001-05-31,179.55
+5,28,0,Playfoam,Art & Crafts,3.99,10.99,Maven Toys La Paz 1,La Paz,Downtown,2001-05-31,0.0
+5,29,8,Plush Pony,Toys,8.99,19.99,Maven Toys La Paz 1,La Paz,Downtown,2001-05-31,71.92
+5,30,39,Rubik's Cube,Games,17.99,19.99,Maven Toys La Paz 1,La Paz,Downtown,2001-05-31,701.6099999999999
+5,31,31,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys La Paz 1,La Paz,Downtown,2001-05-31,247.69
+5,32,10,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys La Paz 1,La Paz,Downtown,2001-05-31,119.9
+5,33,17,Teddy Bear,Toys,10.99,12.99,Maven Toys La Paz 1,La Paz,Downtown,2001-05-31,186.83
+5,34,10,Toy Robot,Electronics,20.99,25.99,Maven Toys La Paz 1,La Paz,Downtown,2001-05-31,209.89999999999998
+6,1,0,Action Figure,Toys,9.99,15.99,Maven Toys Mexicali 1,Mexicali,Commercial,2003-12-13,0.0
+6,2,47,Animal Figures,Toys,9.99,12.99,Maven Toys Mexicali 1,Mexicali,Commercial,2003-12-13,469.53000000000003
+6,3,20,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Mexicali 1,Mexicali,Commercial,2003-12-13,39.8
+6,4,14,Chutes & Ladders,Games,9.99,12.99,Maven Toys Mexicali 1,Mexicali,Commercial,2003-12-13,139.86
+6,5,8,Classic Dominoes,Games,7.99,9.99,Maven Toys Mexicali 1,Mexicali,Commercial,2003-12-13,63.92
+6,6,32,Colorbuds,Electronics,6.99,14.99,Maven Toys Mexicali 1,Mexicali,Commercial,2003-12-13,223.68
+6,7,18,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Mexicali 1,Mexicali,Commercial,2003-12-13,215.82
+6,8,50,Deck Of Cards,Games,3.99,6.99,Maven Toys Mexicali 1,Mexicali,Commercial,2003-12-13,199.5
+6,9,3,Dino Egg,Toys,9.99,10.99,Maven Toys Mexicali 1,Mexicali,Commercial,2003-12-13,29.97
+6,10,52,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Mexicali 1,Mexicali,Commercial,2003-12-13,571.48
+6,11,20,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Mexicali 1,Mexicali,Commercial,2003-12-13,219.8
+6,12,2,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Mexicali 1,Mexicali,Commercial,2003-12-13,17.98
+6,13,2,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Mexicali 1,Mexicali,Commercial,2003-12-13,29.98
+6,14,11,Glass Marbles,Games,5.99,10.99,Maven Toys Mexicali 1,Mexicali,Commercial,2003-12-13,65.89
+6,15,11,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Mexicali 1,Mexicali,Commercial,2003-12-13,43.89
+6,16,10,Jenga,Games,2.99,9.99,Maven Toys Mexicali 1,Mexicali,Commercial,2003-12-13,29.900000000000002
+6,17,22,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Mexicali 1,Mexicali,Commercial,2003-12-13,307.78000000000003
+6,18,11,Lego Bricks,Toys,34.99,39.99,Maven Toys Mexicali 1,Mexicali,Commercial,2003-12-13,384.89000000000004
+6,19,39,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Mexicali 1,Mexicali,Commercial,2003-12-13,545.61
+6,20,9,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,Maven Toys Mexicali 1,Mexicali,Commercial,2003-12-13,80.91
+6,21,36,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Mexicali 1,Mexicali,Commercial,2003-12-13,251.64000000000001
+6,22,5,Monopoly,Games,13.99,19.99,Maven Toys Mexicali 1,Mexicali,Commercial,2003-12-13,69.95
+6,23,15,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Mexicali 1,Mexicali,Commercial,2003-12-13,74.85000000000001
+6,24,15,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Mexicali 1,Mexicali,Commercial,2003-12-13,224.85
+6,25,62,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Mexicali 1,Mexicali,Commercial,2003-12-13,123.38
+6,26,7,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Mexicali 1,Mexicali,Commercial,2003-12-13,146.92999999999998
+6,27,37,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Mexicali 1,Mexicali,Commercial,2003-12-13,147.63
+6,28,2,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Mexicali 1,Mexicali,Commercial,2003-12-13,7.98
+6,29,10,Plush Pony,Toys,8.99,19.99,Maven Toys Mexicali 1,Mexicali,Commercial,2003-12-13,89.9
+6,30,67,Rubik's Cube,Games,17.99,19.99,Maven Toys Mexicali 1,Mexicali,Commercial,2003-12-13,1205.33
+6,31,17,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Mexicali 1,Mexicali,Commercial,2003-12-13,135.83
+6,32,7,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Mexicali 1,Mexicali,Commercial,2003-12-13,83.93
+6,33,7,Teddy Bear,Toys,10.99,12.99,Maven Toys Mexicali 1,Mexicali,Commercial,2003-12-13,76.93
+6,34,8,Toy Robot,Electronics,20.99,25.99,Maven Toys Mexicali 1,Mexicali,Commercial,2003-12-13,167.92
+6,35,3,Uno Card Game,Games,3.99,7.99,Maven Toys Mexicali 1,Mexicali,Commercial,2003-12-13,11.97
+7,1,14,Action Figure,Toys,9.99,15.99,Maven Toys Monterrey 2,Monterrey,Downtown,2003-12-25,139.86
+7,2,7,Animal Figures,Toys,9.99,12.99,Maven Toys Monterrey 2,Monterrey,Downtown,2003-12-25,69.93
+7,3,10,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Monterrey 2,Monterrey,Downtown,2003-12-25,19.9
+7,4,17,Chutes & Ladders,Games,9.99,12.99,Maven Toys Monterrey 2,Monterrey,Downtown,2003-12-25,169.83
+7,5,19,Classic Dominoes,Games,7.99,9.99,Maven Toys Monterrey 2,Monterrey,Downtown,2003-12-25,151.81
+7,6,10,Colorbuds,Electronics,6.99,14.99,Maven Toys Monterrey 2,Monterrey,Downtown,2003-12-25,69.9
+7,7,1,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Monterrey 2,Monterrey,Downtown,2003-12-25,11.99
+7,8,46,Deck Of Cards,Games,3.99,6.99,Maven Toys Monterrey 2,Monterrey,Downtown,2003-12-25,183.54000000000002
+7,9,0,Dino Egg,Toys,9.99,10.99,Maven Toys Monterrey 2,Monterrey,Downtown,2003-12-25,0.0
+7,10,36,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Monterrey 2,Monterrey,Downtown,2003-12-25,395.64
+7,11,7,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Monterrey 2,Monterrey,Downtown,2003-12-25,76.93
+7,12,38,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Monterrey 2,Monterrey,Downtown,2003-12-25,341.62
+7,13,20,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Monterrey 2,Monterrey,Downtown,2003-12-25,299.8
+7,14,3,Glass Marbles,Games,5.99,10.99,Maven Toys Monterrey 2,Monterrey,Downtown,2003-12-25,17.97
+7,15,3,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Monterrey 2,Monterrey,Downtown,2003-12-25,11.97
+7,16,6,Jenga,Games,2.99,9.99,Maven Toys Monterrey 2,Monterrey,Downtown,2003-12-25,17.94
+7,17,4,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Monterrey 2,Monterrey,Downtown,2003-12-25,55.96
+7,18,31,Lego Bricks,Toys,34.99,39.99,Maven Toys Monterrey 2,Monterrey,Downtown,2003-12-25,1084.69
+7,19,24,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Monterrey 2,Monterrey,Downtown,2003-12-25,335.76
+7,20,7,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,Maven Toys Monterrey 2,Monterrey,Downtown,2003-12-25,62.93
+7,21,49,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Monterrey 2,Monterrey,Downtown,2003-12-25,342.51
+7,22,8,Monopoly,Games,13.99,19.99,Maven Toys Monterrey 2,Monterrey,Downtown,2003-12-25,111.92
+7,23,9,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Monterrey 2,Monterrey,Downtown,2003-12-25,44.910000000000004
+7,24,25,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Monterrey 2,Monterrey,Downtown,2003-12-25,374.75
+7,25,10,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Monterrey 2,Monterrey,Downtown,2003-12-25,19.9
+7,26,16,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Monterrey 2,Monterrey,Downtown,2003-12-25,335.84
+7,27,48,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Monterrey 2,Monterrey,Downtown,2003-12-25,191.52
+7,28,0,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Monterrey 2,Monterrey,Downtown,2003-12-25,0.0
+7,29,8,Plush Pony,Toys,8.99,19.99,Maven Toys Monterrey 2,Monterrey,Downtown,2003-12-25,71.92
+7,30,27,Rubik's Cube,Games,17.99,19.99,Maven Toys Monterrey 2,Monterrey,Downtown,2003-12-25,485.72999999999996
+7,31,15,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Monterrey 2,Monterrey,Downtown,2003-12-25,119.85000000000001
+7,32,3,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Monterrey 2,Monterrey,Downtown,2003-12-25,35.97
+7,33,18,Teddy Bear,Toys,10.99,12.99,Maven Toys Monterrey 2,Monterrey,Downtown,2003-12-25,197.82
+7,34,2,Toy Robot,Electronics,20.99,25.99,Maven Toys Monterrey 2,Monterrey,Downtown,2003-12-25,41.98
+7,35,17,Uno Card Game,Games,3.99,7.99,Maven Toys Monterrey 2,Monterrey,Downtown,2003-12-25,67.83
+8,1,10,Action Figure,Toys,9.99,15.99,Maven Toys Pachuca 1,Pachuca,Downtown,2004-10-14,99.9
+8,2,11,Animal Figures,Toys,9.99,12.99,Maven Toys Pachuca 1,Pachuca,Downtown,2004-10-14,109.89
+8,3,8,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Pachuca 1,Pachuca,Downtown,2004-10-14,15.92
+8,4,18,Chutes & Ladders,Games,9.99,12.99,Maven Toys Pachuca 1,Pachuca,Downtown,2004-10-14,179.82
+8,5,10,Classic Dominoes,Games,7.99,9.99,Maven Toys Pachuca 1,Pachuca,Downtown,2004-10-14,79.9
+8,6,12,Colorbuds,Electronics,6.99,14.99,Maven Toys Pachuca 1,Pachuca,Downtown,2004-10-14,83.88
+8,7,8,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Pachuca 1,Pachuca,Downtown,2004-10-14,95.92
+8,8,42,Deck Of Cards,Games,3.99,6.99,Maven Toys Pachuca 1,Pachuca,Downtown,2004-10-14,167.58
+8,9,0,Dino Egg,Toys,9.99,10.99,Maven Toys Pachuca 1,Pachuca,Downtown,2004-10-14,0.0
+8,10,54,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Pachuca 1,Pachuca,Downtown,2004-10-14,593.46
+8,11,8,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Pachuca 1,Pachuca,Downtown,2004-10-14,87.92
+8,12,4,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Pachuca 1,Pachuca,Downtown,2004-10-14,35.96
+8,13,0,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Pachuca 1,Pachuca,Downtown,2004-10-14,0.0
+8,14,0,Glass Marbles,Games,5.99,10.99,Maven Toys Pachuca 1,Pachuca,Downtown,2004-10-14,0.0
+8,15,0,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Pachuca 1,Pachuca,Downtown,2004-10-14,0.0
+8,16,8,Jenga,Games,2.99,9.99,Maven Toys Pachuca 1,Pachuca,Downtown,2004-10-14,23.92
+8,17,5,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Pachuca 1,Pachuca,Downtown,2004-10-14,69.95
+8,18,18,Lego Bricks,Toys,34.99,39.99,Maven Toys Pachuca 1,Pachuca,Downtown,2004-10-14,629.82
+8,19,11,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Pachuca 1,Pachuca,Downtown,2004-10-14,153.89000000000001
+8,20,5,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,Maven Toys Pachuca 1,Pachuca,Downtown,2004-10-14,44.95
+8,21,37,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Pachuca 1,Pachuca,Downtown,2004-10-14,258.63
+8,22,13,Monopoly,Games,13.99,19.99,Maven Toys Pachuca 1,Pachuca,Downtown,2004-10-14,181.87
+8,23,8,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Pachuca 1,Pachuca,Downtown,2004-10-14,39.92
+8,24,7,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Pachuca 1,Pachuca,Downtown,2004-10-14,104.93
+8,25,71,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Pachuca 1,Pachuca,Downtown,2004-10-14,141.29
+8,26,20,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Pachuca 1,Pachuca,Downtown,2004-10-14,419.79999999999995
+8,27,47,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Pachuca 1,Pachuca,Downtown,2004-10-14,187.53
+8,28,20,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Pachuca 1,Pachuca,Downtown,2004-10-14,79.80000000000001
+8,29,3,Plush Pony,Toys,8.99,19.99,Maven Toys Pachuca 1,Pachuca,Downtown,2004-10-14,26.97
+8,30,13,Rubik's Cube,Games,17.99,19.99,Maven Toys Pachuca 1,Pachuca,Downtown,2004-10-14,233.86999999999998
+8,31,27,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Pachuca 1,Pachuca,Downtown,2004-10-14,215.73000000000002
+8,32,7,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Pachuca 1,Pachuca,Downtown,2004-10-14,83.93
+8,33,17,Teddy Bear,Toys,10.99,12.99,Maven Toys Pachuca 1,Pachuca,Downtown,2004-10-14,186.83
+8,34,18,Toy Robot,Electronics,20.99,25.99,Maven Toys Pachuca 1,Pachuca,Downtown,2004-10-14,377.82
+8,35,8,Uno Card Game,Games,3.99,7.99,Maven Toys Pachuca 1,Pachuca,Downtown,2004-10-14,31.92
+9,1,15,Action Figure,Toys,9.99,15.99,Maven Toys Ciudad de Mexico 1,Cuidad de Mexico,Downtown,2004-10-15,149.85
+9,2,18,Animal Figures,Toys,9.99,12.99,Maven Toys Ciudad de Mexico 1,Cuidad de Mexico,Downtown,2004-10-15,179.82
+9,3,10,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Ciudad de Mexico 1,Cuidad de Mexico,Downtown,2004-10-15,19.9
+9,4,6,Chutes & Ladders,Games,9.99,12.99,Maven Toys Ciudad de Mexico 1,Cuidad de Mexico,Downtown,2004-10-15,59.94
+9,5,3,Classic Dominoes,Games,7.99,9.99,Maven Toys Ciudad de Mexico 1,Cuidad de Mexico,Downtown,2004-10-15,23.97
+9,6,55,Colorbuds,Electronics,6.99,14.99,Maven Toys Ciudad de Mexico 1,Cuidad de Mexico,Downtown,2004-10-15,384.45
+9,7,22,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Ciudad de Mexico 1,Cuidad de Mexico,Downtown,2004-10-15,263.78000000000003
+9,8,29,Deck Of Cards,Games,3.99,6.99,Maven Toys Ciudad de Mexico 1,Cuidad de Mexico,Downtown,2004-10-15,115.71000000000001
+9,9,50,Dino Egg,Toys,9.99,10.99,Maven Toys Ciudad de Mexico 1,Cuidad de Mexico,Downtown,2004-10-15,499.5
+9,10,69,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Ciudad de Mexico 1,Cuidad de Mexico,Downtown,2004-10-15,758.3100000000001
+9,11,1,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Ciudad de Mexico 1,Cuidad de Mexico,Downtown,2004-10-15,10.99
+9,12,6,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Ciudad de Mexico 1,Cuidad de Mexico,Downtown,2004-10-15,53.94
+9,13,19,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Ciudad de Mexico 1,Cuidad de Mexico,Downtown,2004-10-15,284.81
+9,14,11,Glass Marbles,Games,5.99,10.99,Maven Toys Ciudad de Mexico 1,Cuidad de Mexico,Downtown,2004-10-15,65.89
+9,15,9,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Ciudad de Mexico 1,Cuidad de Mexico,Downtown,2004-10-15,35.910000000000004
+9,16,5,Jenga,Games,2.99,9.99,Maven Toys Ciudad de Mexico 1,Cuidad de Mexico,Downtown,2004-10-15,14.950000000000001
+9,17,8,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Ciudad de Mexico 1,Cuidad de Mexico,Downtown,2004-10-15,111.92
+9,18,8,Lego Bricks,Toys,34.99,39.99,Maven Toys Ciudad de Mexico 1,Cuidad de Mexico,Downtown,2004-10-15,279.92
+9,19,54,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Ciudad de Mexico 1,Cuidad de Mexico,Downtown,2004-10-15,755.46
+9,20,4,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,Maven Toys Ciudad de Mexico 1,Cuidad de Mexico,Downtown,2004-10-15,35.96
+9,21,12,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Ciudad de Mexico 1,Cuidad de Mexico,Downtown,2004-10-15,83.88
+9,22,9,Monopoly,Games,13.99,19.99,Maven Toys Ciudad de Mexico 1,Cuidad de Mexico,Downtown,2004-10-15,125.91
+9,23,31,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Ciudad de Mexico 1,Cuidad de Mexico,Downtown,2004-10-15,154.69
+9,24,16,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Ciudad de Mexico 1,Cuidad de Mexico,Downtown,2004-10-15,239.84
+9,25,4,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Ciudad de Mexico 1,Cuidad de Mexico,Downtown,2004-10-15,7.96
+9,26,21,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Ciudad de Mexico 1,Cuidad de Mexico,Downtown,2004-10-15,440.78999999999996
+9,27,29,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Ciudad de Mexico 1,Cuidad de Mexico,Downtown,2004-10-15,115.71000000000001
+9,28,9,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Ciudad de Mexico 1,Cuidad de Mexico,Downtown,2004-10-15,35.910000000000004
+9,29,8,Plush Pony,Toys,8.99,19.99,Maven Toys Ciudad de Mexico 1,Cuidad de Mexico,Downtown,2004-10-15,71.92
+9,30,11,Rubik's Cube,Games,17.99,19.99,Maven Toys Ciudad de Mexico 1,Cuidad de Mexico,Downtown,2004-10-15,197.89
+9,31,6,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Ciudad de Mexico 1,Cuidad de Mexico,Downtown,2004-10-15,47.94
+9,32,3,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Ciudad de Mexico 1,Cuidad de Mexico,Downtown,2004-10-15,35.97
+9,33,9,Teddy Bear,Toys,10.99,12.99,Maven Toys Ciudad de Mexico 1,Cuidad de Mexico,Downtown,2004-10-15,98.91
+9,34,5,Toy Robot,Electronics,20.99,25.99,Maven Toys Ciudad de Mexico 1,Cuidad de Mexico,Downtown,2004-10-15,104.94999999999999
+9,35,4,Uno Card Game,Games,3.99,7.99,Maven Toys Ciudad de Mexico 1,Cuidad de Mexico,Downtown,2004-10-15,15.96
+10,1,5,Action Figure,Toys,9.99,15.99,Maven Toys Campeche 1,Campeche,Downtown,2005-01-14,49.95
+10,2,17,Animal Figures,Toys,9.99,12.99,Maven Toys Campeche 1,Campeche,Downtown,2005-01-14,169.83
+10,3,15,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Campeche 1,Campeche,Downtown,2005-01-14,29.85
+10,4,17,Chutes & Ladders,Games,9.99,12.99,Maven Toys Campeche 1,Campeche,Downtown,2005-01-14,169.83
+10,5,4,Classic Dominoes,Games,7.99,9.99,Maven Toys Campeche 1,Campeche,Downtown,2005-01-14,31.96
+10,6,24,Colorbuds,Electronics,6.99,14.99,Maven Toys Campeche 1,Campeche,Downtown,2005-01-14,167.76
+10,7,13,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Campeche 1,Campeche,Downtown,2005-01-14,155.87
+10,8,73,Deck Of Cards,Games,3.99,6.99,Maven Toys Campeche 1,Campeche,Downtown,2005-01-14,291.27000000000004
+10,9,10,Dino Egg,Toys,9.99,10.99,Maven Toys Campeche 1,Campeche,Downtown,2005-01-14,99.9
+10,10,57,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Campeche 1,Campeche,Downtown,2005-01-14,626.4300000000001
+10,11,9,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Campeche 1,Campeche,Downtown,2005-01-14,98.91
+10,12,15,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Campeche 1,Campeche,Downtown,2005-01-14,134.85
+10,13,17,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Campeche 1,Campeche,Downtown,2005-01-14,254.83
+10,14,4,Glass Marbles,Games,5.99,10.99,Maven Toys Campeche 1,Campeche,Downtown,2005-01-14,23.96
+10,15,13,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Campeche 1,Campeche,Downtown,2005-01-14,51.870000000000005
+10,16,1,Jenga,Games,2.99,9.99,Maven Toys Campeche 1,Campeche,Downtown,2005-01-14,2.99
+10,17,3,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Campeche 1,Campeche,Downtown,2005-01-14,41.97
+10,18,17,Lego Bricks,Toys,34.99,39.99,Maven Toys Campeche 1,Campeche,Downtown,2005-01-14,594.83
+10,19,57,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Campeche 1,Campeche,Downtown,2005-01-14,797.4300000000001
+10,20,4,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,Maven Toys Campeche 1,Campeche,Downtown,2005-01-14,35.96
+10,21,16,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Campeche 1,Campeche,Downtown,2005-01-14,111.84
+10,22,13,Monopoly,Games,13.99,19.99,Maven Toys Campeche 1,Campeche,Downtown,2005-01-14,181.87
+10,23,9,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Campeche 1,Campeche,Downtown,2005-01-14,44.910000000000004
+10,24,20,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Campeche 1,Campeche,Downtown,2005-01-14,299.8
+10,25,68,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Campeche 1,Campeche,Downtown,2005-01-14,135.32
+10,26,9,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Campeche 1,Campeche,Downtown,2005-01-14,188.91
+10,27,24,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Campeche 1,Campeche,Downtown,2005-01-14,95.76
+10,28,19,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Campeche 1,Campeche,Downtown,2005-01-14,75.81
+10,29,12,Plush Pony,Toys,8.99,19.99,Maven Toys Campeche 1,Campeche,Downtown,2005-01-14,107.88
+10,30,42,Rubik's Cube,Games,17.99,19.99,Maven Toys Campeche 1,Campeche,Downtown,2005-01-14,755.5799999999999
+10,31,7,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Campeche 1,Campeche,Downtown,2005-01-14,55.93
+10,32,13,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Campeche 1,Campeche,Downtown,2005-01-14,155.87
+10,33,12,Teddy Bear,Toys,10.99,12.99,Maven Toys Campeche 1,Campeche,Downtown,2005-01-14,131.88
+10,34,16,Toy Robot,Electronics,20.99,25.99,Maven Toys Campeche 1,Campeche,Downtown,2005-01-14,335.84
+10,35,2,Uno Card Game,Games,3.99,7.99,Maven Toys Campeche 1,Campeche,Downtown,2005-01-14,7.98
+11,1,19,Action Figure,Toys,9.99,15.99,Maven Toys Cuernavaca 1,Cuernavaca,Downtown,2005-04-19,189.81
+11,2,18,Animal Figures,Toys,9.99,12.99,Maven Toys Cuernavaca 1,Cuernavaca,Downtown,2005-04-19,179.82
+11,3,18,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Cuernavaca 1,Cuernavaca,Downtown,2005-04-19,35.82
+11,6,32,Colorbuds,Electronics,6.99,14.99,Maven Toys Cuernavaca 1,Cuernavaca,Downtown,2005-04-19,223.68
+11,7,19,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Cuernavaca 1,Cuernavaca,Downtown,2005-04-19,227.81
+11,8,64,Deck Of Cards,Games,3.99,6.99,Maven Toys Cuernavaca 1,Cuernavaca,Downtown,2005-04-19,255.36
+11,9,13,Dino Egg,Toys,9.99,10.99,Maven Toys Cuernavaca 1,Cuernavaca,Downtown,2005-04-19,129.87
+11,10,17,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Cuernavaca 1,Cuernavaca,Downtown,2005-04-19,186.83
+11,11,9,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Cuernavaca 1,Cuernavaca,Downtown,2005-04-19,98.91
+11,12,17,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Cuernavaca 1,Cuernavaca,Downtown,2005-04-19,152.83
+11,13,2,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Cuernavaca 1,Cuernavaca,Downtown,2005-04-19,29.98
+11,14,18,Glass Marbles,Games,5.99,10.99,Maven Toys Cuernavaca 1,Cuernavaca,Downtown,2005-04-19,107.82000000000001
+11,15,7,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Cuernavaca 1,Cuernavaca,Downtown,2005-04-19,27.93
+11,17,5,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Cuernavaca 1,Cuernavaca,Downtown,2005-04-19,69.95
+11,18,34,Lego Bricks,Toys,34.99,39.99,Maven Toys Cuernavaca 1,Cuernavaca,Downtown,2005-04-19,1189.66
+11,19,51,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Cuernavaca 1,Cuernavaca,Downtown,2005-04-19,713.49
+11,21,0,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Cuernavaca 1,Cuernavaca,Downtown,2005-04-19,0.0
+11,23,23,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Cuernavaca 1,Cuernavaca,Downtown,2005-04-19,114.77000000000001
+11,24,39,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Cuernavaca 1,Cuernavaca,Downtown,2005-04-19,584.61
+11,25,70,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Cuernavaca 1,Cuernavaca,Downtown,2005-04-19,139.3
+11,26,10,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Cuernavaca 1,Cuernavaca,Downtown,2005-04-19,209.89999999999998
+11,27,28,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Cuernavaca 1,Cuernavaca,Downtown,2005-04-19,111.72
+11,28,11,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Cuernavaca 1,Cuernavaca,Downtown,2005-04-19,43.89
+11,29,4,Plush Pony,Toys,8.99,19.99,Maven Toys Cuernavaca 1,Cuernavaca,Downtown,2005-04-19,35.96
+11,30,10,Rubik's Cube,Games,17.99,19.99,Maven Toys Cuernavaca 1,Cuernavaca,Downtown,2005-04-19,179.89999999999998
+11,31,20,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Cuernavaca 1,Cuernavaca,Downtown,2005-04-19,159.8
+11,32,4,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Cuernavaca 1,Cuernavaca,Downtown,2005-04-19,47.96
+11,33,6,Teddy Bear,Toys,10.99,12.99,Maven Toys Cuernavaca 1,Cuernavaca,Downtown,2005-04-19,65.94
+11,34,9,Toy Robot,Electronics,20.99,25.99,Maven Toys Cuernavaca 1,Cuernavaca,Downtown,2005-04-19,188.91
+12,1,16,Action Figure,Toys,9.99,15.99,Maven Toys Chetumal 1,Chetumal,Downtown,2006-05-05,159.84
+12,2,16,Animal Figures,Toys,9.99,12.99,Maven Toys Chetumal 1,Chetumal,Downtown,2006-05-05,159.84
+12,3,44,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Chetumal 1,Chetumal,Downtown,2006-05-05,87.56
+12,4,8,Chutes & Ladders,Games,9.99,12.99,Maven Toys Chetumal 1,Chetumal,Downtown,2006-05-05,79.92
+12,5,17,Classic Dominoes,Games,7.99,9.99,Maven Toys Chetumal 1,Chetumal,Downtown,2006-05-05,135.83
+12,6,23,Colorbuds,Electronics,6.99,14.99,Maven Toys Chetumal 1,Chetumal,Downtown,2006-05-05,160.77
+12,7,11,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Chetumal 1,Chetumal,Downtown,2006-05-05,131.89000000000001
+12,8,61,Deck Of Cards,Games,3.99,6.99,Maven Toys Chetumal 1,Chetumal,Downtown,2006-05-05,243.39000000000001
+12,9,14,Dino Egg,Toys,9.99,10.99,Maven Toys Chetumal 1,Chetumal,Downtown,2006-05-05,139.86
+12,10,17,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Chetumal 1,Chetumal,Downtown,2006-05-05,186.83
+12,11,8,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Chetumal 1,Chetumal,Downtown,2006-05-05,87.92
+12,12,10,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Chetumal 1,Chetumal,Downtown,2006-05-05,89.9
+12,13,15,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Chetumal 1,Chetumal,Downtown,2006-05-05,224.85
+12,14,13,Glass Marbles,Games,5.99,10.99,Maven Toys Chetumal 1,Chetumal,Downtown,2006-05-05,77.87
+12,15,11,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Chetumal 1,Chetumal,Downtown,2006-05-05,43.89
+12,16,14,Jenga,Games,2.99,9.99,Maven Toys Chetumal 1,Chetumal,Downtown,2006-05-05,41.86
+12,17,5,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Chetumal 1,Chetumal,Downtown,2006-05-05,69.95
+12,18,20,Lego Bricks,Toys,34.99,39.99,Maven Toys Chetumal 1,Chetumal,Downtown,2006-05-05,699.8000000000001
+12,19,52,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Chetumal 1,Chetumal,Downtown,2006-05-05,727.48
+12,20,15,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,Maven Toys Chetumal 1,Chetumal,Downtown,2006-05-05,134.85
+12,21,15,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Chetumal 1,Chetumal,Downtown,2006-05-05,104.85000000000001
+12,22,4,Monopoly,Games,13.99,19.99,Maven Toys Chetumal 1,Chetumal,Downtown,2006-05-05,55.96
+12,23,15,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Chetumal 1,Chetumal,Downtown,2006-05-05,74.85000000000001
+12,24,34,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Chetumal 1,Chetumal,Downtown,2006-05-05,509.66
+12,25,23,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Chetumal 1,Chetumal,Downtown,2006-05-05,45.77
+12,26,20,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Chetumal 1,Chetumal,Downtown,2006-05-05,419.79999999999995
+12,27,36,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Chetumal 1,Chetumal,Downtown,2006-05-05,143.64000000000001
+12,28,10,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Chetumal 1,Chetumal,Downtown,2006-05-05,39.900000000000006
+12,29,19,Plush Pony,Toys,8.99,19.99,Maven Toys Chetumal 1,Chetumal,Downtown,2006-05-05,170.81
+12,30,45,Rubik's Cube,Games,17.99,19.99,Maven Toys Chetumal 1,Chetumal,Downtown,2006-05-05,809.55
+12,31,13,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Chetumal 1,Chetumal,Downtown,2006-05-05,103.87
+12,32,9,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Chetumal 1,Chetumal,Downtown,2006-05-05,107.91
+12,33,5,Teddy Bear,Toys,10.99,12.99,Maven Toys Chetumal 1,Chetumal,Downtown,2006-05-05,54.95
+12,34,9,Toy Robot,Electronics,20.99,25.99,Maven Toys Chetumal 1,Chetumal,Downtown,2006-05-05,188.91
+12,35,9,Uno Card Game,Games,3.99,7.99,Maven Toys Chetumal 1,Chetumal,Downtown,2006-05-05,35.910000000000004
+13,1,0,Action Figure,Toys,9.99,15.99,Maven Toys Mexicali 2,Mexicali,Downtown,2006-08-30,0.0
+13,2,2,Animal Figures,Toys,9.99,12.99,Maven Toys Mexicali 2,Mexicali,Downtown,2006-08-30,19.98
+13,3,3,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Mexicali 2,Mexicali,Downtown,2006-08-30,5.97
+13,6,14,Colorbuds,Electronics,6.99,14.99,Maven Toys Mexicali 2,Mexicali,Downtown,2006-08-30,97.86
+13,7,16,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Mexicali 2,Mexicali,Downtown,2006-08-30,191.84
+13,8,66,Deck Of Cards,Games,3.99,6.99,Maven Toys Mexicali 2,Mexicali,Downtown,2006-08-30,263.34000000000003
+13,9,0,Dino Egg,Toys,9.99,10.99,Maven Toys Mexicali 2,Mexicali,Downtown,2006-08-30,0.0
+13,10,84,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Mexicali 2,Mexicali,Downtown,2006-08-30,923.16
+13,11,0,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Mexicali 2,Mexicali,Downtown,2006-08-30,0.0
+13,12,0,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Mexicali 2,Mexicali,Downtown,2006-08-30,0.0
+13,13,14,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Mexicali 2,Mexicali,Downtown,2006-08-30,209.86
+13,14,21,Glass Marbles,Games,5.99,10.99,Maven Toys Mexicali 2,Mexicali,Downtown,2006-08-30,125.79
+13,15,27,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Mexicali 2,Mexicali,Downtown,2006-08-30,107.73
+13,17,9,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Mexicali 2,Mexicali,Downtown,2006-08-30,125.91
+13,18,47,Lego Bricks,Toys,34.99,39.99,Maven Toys Mexicali 2,Mexicali,Downtown,2006-08-30,1644.5300000000002
+13,19,49,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Mexicali 2,Mexicali,Downtown,2006-08-30,685.51
+13,21,9,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Mexicali 2,Mexicali,Downtown,2006-08-30,62.910000000000004
+13,23,6,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Mexicali 2,Mexicali,Downtown,2006-08-30,29.94
+13,24,24,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Mexicali 2,Mexicali,Downtown,2006-08-30,359.76
+13,25,37,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Mexicali 2,Mexicali,Downtown,2006-08-30,73.63
+13,26,2,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Mexicali 2,Mexicali,Downtown,2006-08-30,41.98
+13,27,56,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Mexicali 2,Mexicali,Downtown,2006-08-30,223.44
+13,28,0,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Mexicali 2,Mexicali,Downtown,2006-08-30,0.0
+13,29,3,Plush Pony,Toys,8.99,19.99,Maven Toys Mexicali 2,Mexicali,Downtown,2006-08-30,26.97
+13,30,17,Rubik's Cube,Games,17.99,19.99,Maven Toys Mexicali 2,Mexicali,Downtown,2006-08-30,305.83
+13,31,24,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Mexicali 2,Mexicali,Downtown,2006-08-30,191.76
+13,32,7,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Mexicali 2,Mexicali,Downtown,2006-08-30,83.93
+13,33,3,Teddy Bear,Toys,10.99,12.99,Maven Toys Mexicali 2,Mexicali,Downtown,2006-08-30,32.97
+13,34,3,Toy Robot,Electronics,20.99,25.99,Maven Toys Mexicali 2,Mexicali,Downtown,2006-08-30,62.97
+14,1,21,Action Figure,Toys,9.99,15.99,Maven Toys Guanajuato 1,Guanajuato,Downtown,2007-01-31,209.79
+14,2,5,Animal Figures,Toys,9.99,12.99,Maven Toys Guanajuato 1,Guanajuato,Downtown,2007-01-31,49.95
+14,3,22,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Guanajuato 1,Guanajuato,Downtown,2007-01-31,43.78
+14,6,18,Colorbuds,Electronics,6.99,14.99,Maven Toys Guanajuato 1,Guanajuato,Downtown,2007-01-31,125.82000000000001
+14,7,13,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Guanajuato 1,Guanajuato,Downtown,2007-01-31,155.87
+14,8,57,Deck Of Cards,Games,3.99,6.99,Maven Toys Guanajuato 1,Guanajuato,Downtown,2007-01-31,227.43
+14,9,10,Dino Egg,Toys,9.99,10.99,Maven Toys Guanajuato 1,Guanajuato,Downtown,2007-01-31,99.9
+14,10,32,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Guanajuato 1,Guanajuato,Downtown,2007-01-31,351.68
+14,11,10,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Guanajuato 1,Guanajuato,Downtown,2007-01-31,109.9
+14,12,2,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Guanajuato 1,Guanajuato,Downtown,2007-01-31,17.98
+14,13,14,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Guanajuato 1,Guanajuato,Downtown,2007-01-31,209.86
+14,14,4,Glass Marbles,Games,5.99,10.99,Maven Toys Guanajuato 1,Guanajuato,Downtown,2007-01-31,23.96
+14,15,0,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Guanajuato 1,Guanajuato,Downtown,2007-01-31,0.0
+14,17,14,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Guanajuato 1,Guanajuato,Downtown,2007-01-31,195.86
+14,18,7,Lego Bricks,Toys,34.99,39.99,Maven Toys Guanajuato 1,Guanajuato,Downtown,2007-01-31,244.93
+14,19,23,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Guanajuato 1,Guanajuato,Downtown,2007-01-31,321.77
+14,21,0,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Guanajuato 1,Guanajuato,Downtown,2007-01-31,0.0
+14,23,4,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Guanajuato 1,Guanajuato,Downtown,2007-01-31,19.96
+14,24,10,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Guanajuato 1,Guanajuato,Downtown,2007-01-31,149.9
+14,25,15,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Guanajuato 1,Guanajuato,Downtown,2007-01-31,29.85
+14,26,3,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Guanajuato 1,Guanajuato,Downtown,2007-01-31,62.97
+14,27,34,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Guanajuato 1,Guanajuato,Downtown,2007-01-31,135.66
+14,28,22,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Guanajuato 1,Guanajuato,Downtown,2007-01-31,87.78
+14,29,0,Plush Pony,Toys,8.99,19.99,Maven Toys Guanajuato 1,Guanajuato,Downtown,2007-01-31,0.0
+14,30,10,Rubik's Cube,Games,17.99,19.99,Maven Toys Guanajuato 1,Guanajuato,Downtown,2007-01-31,179.89999999999998
+14,31,5,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Guanajuato 1,Guanajuato,Downtown,2007-01-31,39.95
+14,32,2,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Guanajuato 1,Guanajuato,Downtown,2007-01-31,23.98
+14,33,2,Teddy Bear,Toys,10.99,12.99,Maven Toys Guanajuato 1,Guanajuato,Downtown,2007-01-31,21.98
+14,34,8,Toy Robot,Electronics,20.99,25.99,Maven Toys Guanajuato 1,Guanajuato,Downtown,2007-01-31,167.92
+15,1,24,Action Figure,Toys,9.99,15.99,Maven Toys Tuxtla Gutierrez 1,Tuxtla Gutierrez,Downtown,2007-03-05,239.76
+15,2,5,Animal Figures,Toys,9.99,12.99,Maven Toys Tuxtla Gutierrez 1,Tuxtla Gutierrez,Downtown,2007-03-05,49.95
+15,3,3,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Tuxtla Gutierrez 1,Tuxtla Gutierrez,Downtown,2007-03-05,5.97
+15,6,29,Colorbuds,Electronics,6.99,14.99,Maven Toys Tuxtla Gutierrez 1,Tuxtla Gutierrez,Downtown,2007-03-05,202.71
+15,7,10,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Tuxtla Gutierrez 1,Tuxtla Gutierrez,Downtown,2007-03-05,119.9
+15,8,40,Deck Of Cards,Games,3.99,6.99,Maven Toys Tuxtla Gutierrez 1,Tuxtla Gutierrez,Downtown,2007-03-05,159.60000000000002
+15,9,26,Dino Egg,Toys,9.99,10.99,Maven Toys Tuxtla Gutierrez 1,Tuxtla Gutierrez,Downtown,2007-03-05,259.74
+15,10,39,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Tuxtla Gutierrez 1,Tuxtla Gutierrez,Downtown,2007-03-05,428.61
+15,11,28,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Tuxtla Gutierrez 1,Tuxtla Gutierrez,Downtown,2007-03-05,307.72
+15,12,0,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Tuxtla Gutierrez 1,Tuxtla Gutierrez,Downtown,2007-03-05,0.0
+15,13,13,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Tuxtla Gutierrez 1,Tuxtla Gutierrez,Downtown,2007-03-05,194.87
+15,14,20,Glass Marbles,Games,5.99,10.99,Maven Toys Tuxtla Gutierrez 1,Tuxtla Gutierrez,Downtown,2007-03-05,119.80000000000001
+15,15,2,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Tuxtla Gutierrez 1,Tuxtla Gutierrez,Downtown,2007-03-05,7.98
+15,17,24,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Tuxtla Gutierrez 1,Tuxtla Gutierrez,Downtown,2007-03-05,335.76
+15,18,34,Lego Bricks,Toys,34.99,39.99,Maven Toys Tuxtla Gutierrez 1,Tuxtla Gutierrez,Downtown,2007-03-05,1189.66
+15,19,63,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Tuxtla Gutierrez 1,Tuxtla Gutierrez,Downtown,2007-03-05,881.37
+15,21,12,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Tuxtla Gutierrez 1,Tuxtla Gutierrez,Downtown,2007-03-05,83.88
+15,23,18,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Tuxtla Gutierrez 1,Tuxtla Gutierrez,Downtown,2007-03-05,89.82000000000001
+15,24,35,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Tuxtla Gutierrez 1,Tuxtla Gutierrez,Downtown,2007-03-05,524.65
+15,25,43,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Tuxtla Gutierrez 1,Tuxtla Gutierrez,Downtown,2007-03-05,85.57
+15,26,17,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Tuxtla Gutierrez 1,Tuxtla Gutierrez,Downtown,2007-03-05,356.83
+15,27,26,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Tuxtla Gutierrez 1,Tuxtla Gutierrez,Downtown,2007-03-05,103.74000000000001
+15,28,2,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Tuxtla Gutierrez 1,Tuxtla Gutierrez,Downtown,2007-03-05,7.98
+15,29,13,Plush Pony,Toys,8.99,19.99,Maven Toys Tuxtla Gutierrez 1,Tuxtla Gutierrez,Downtown,2007-03-05,116.87
+15,30,13,Rubik's Cube,Games,17.99,19.99,Maven Toys Tuxtla Gutierrez 1,Tuxtla Gutierrez,Downtown,2007-03-05,233.86999999999998
+15,31,4,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Tuxtla Gutierrez 1,Tuxtla Gutierrez,Downtown,2007-03-05,31.96
+15,32,16,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Tuxtla Gutierrez 1,Tuxtla Gutierrez,Downtown,2007-03-05,191.84
+15,33,8,Teddy Bear,Toys,10.99,12.99,Maven Toys Tuxtla Gutierrez 1,Tuxtla Gutierrez,Downtown,2007-03-05,87.92
+15,34,7,Toy Robot,Electronics,20.99,25.99,Maven Toys Tuxtla Gutierrez 1,Tuxtla Gutierrez,Downtown,2007-03-05,146.92999999999998
+16,1,13,Action Figure,Toys,9.99,15.99,Maven Toys San Luis Potosi 1,San Luis Potosi,Downtown,2007-05-19,129.87
+16,2,28,Animal Figures,Toys,9.99,12.99,Maven Toys San Luis Potosi 1,San Luis Potosi,Downtown,2007-05-19,279.72
+16,3,37,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys San Luis Potosi 1,San Luis Potosi,Downtown,2007-05-19,73.63
+16,4,7,Chutes & Ladders,Games,9.99,12.99,Maven Toys San Luis Potosi 1,San Luis Potosi,Downtown,2007-05-19,69.93
+16,5,14,Classic Dominoes,Games,7.99,9.99,Maven Toys San Luis Potosi 1,San Luis Potosi,Downtown,2007-05-19,111.86
+16,6,27,Colorbuds,Electronics,6.99,14.99,Maven Toys San Luis Potosi 1,San Luis Potosi,Downtown,2007-05-19,188.73000000000002
+16,7,19,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys San Luis Potosi 1,San Luis Potosi,Downtown,2007-05-19,227.81
+16,8,18,Deck Of Cards,Games,3.99,6.99,Maven Toys San Luis Potosi 1,San Luis Potosi,Downtown,2007-05-19,71.82000000000001
+16,9,8,Dino Egg,Toys,9.99,10.99,Maven Toys San Luis Potosi 1,San Luis Potosi,Downtown,2007-05-19,79.92
+16,10,43,Dinosaur Figures,Toys,10.99,14.99,Maven Toys San Luis Potosi 1,San Luis Potosi,Downtown,2007-05-19,472.57
+16,11,12,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys San Luis Potosi 1,San Luis Potosi,Downtown,2007-05-19,131.88
+16,12,12,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys San Luis Potosi 1,San Luis Potosi,Downtown,2007-05-19,107.88
+16,13,5,Gamer Headphones,Electronics,14.99,20.99,Maven Toys San Luis Potosi 1,San Luis Potosi,Downtown,2007-05-19,74.95
+16,14,19,Glass Marbles,Games,5.99,10.99,Maven Toys San Luis Potosi 1,San Luis Potosi,Downtown,2007-05-19,113.81
+16,15,1,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys San Luis Potosi 1,San Luis Potosi,Downtown,2007-05-19,3.99
+16,16,14,Jenga,Games,2.99,9.99,Maven Toys San Luis Potosi 1,San Luis Potosi,Downtown,2007-05-19,41.86
+16,17,14,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys San Luis Potosi 1,San Luis Potosi,Downtown,2007-05-19,195.86
+16,18,27,Lego Bricks,Toys,34.99,39.99,Maven Toys San Luis Potosi 1,San Luis Potosi,Downtown,2007-05-19,944.73
+16,19,29,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys San Luis Potosi 1,San Luis Potosi,Downtown,2007-05-19,405.71
+16,20,2,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,Maven Toys San Luis Potosi 1,San Luis Potosi,Downtown,2007-05-19,17.98
+16,21,54,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys San Luis Potosi 1,San Luis Potosi,Downtown,2007-05-19,377.46000000000004
+16,22,9,Monopoly,Games,13.99,19.99,Maven Toys San Luis Potosi 1,San Luis Potosi,Downtown,2007-05-19,125.91
+16,23,2,Mr. Potatohead,Toys,4.99,9.99,Maven Toys San Luis Potosi 1,San Luis Potosi,Downtown,2007-05-19,9.98
+16,24,6,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys San Luis Potosi 1,San Luis Potosi,Downtown,2007-05-19,89.94
+16,25,37,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys San Luis Potosi 1,San Luis Potosi,Downtown,2007-05-19,73.63
+16,26,19,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys San Luis Potosi 1,San Luis Potosi,Downtown,2007-05-19,398.80999999999995
+16,27,15,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys San Luis Potosi 1,San Luis Potosi,Downtown,2007-05-19,59.85
+16,28,0,Playfoam,Art & Crafts,3.99,10.99,Maven Toys San Luis Potosi 1,San Luis Potosi,Downtown,2007-05-19,0.0
+16,29,7,Plush Pony,Toys,8.99,19.99,Maven Toys San Luis Potosi 1,San Luis Potosi,Downtown,2007-05-19,62.93
+16,30,49,Rubik's Cube,Games,17.99,19.99,Maven Toys San Luis Potosi 1,San Luis Potosi,Downtown,2007-05-19,881.5099999999999
+16,31,14,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys San Luis Potosi 1,San Luis Potosi,Downtown,2007-05-19,111.86
+16,32,7,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys San Luis Potosi 1,San Luis Potosi,Downtown,2007-05-19,83.93
+16,33,6,Teddy Bear,Toys,10.99,12.99,Maven Toys San Luis Potosi 1,San Luis Potosi,Downtown,2007-05-19,65.94
+16,34,2,Toy Robot,Electronics,20.99,25.99,Maven Toys San Luis Potosi 1,San Luis Potosi,Downtown,2007-05-19,41.98
+16,35,6,Uno Card Game,Games,3.99,7.99,Maven Toys San Luis Potosi 1,San Luis Potosi,Downtown,2007-05-19,23.94
+17,1,22,Action Figure,Toys,9.99,15.99,Maven Toys Toluca 1,Toluca,Downtown,2007-12-09,219.78
+17,2,15,Animal Figures,Toys,9.99,12.99,Maven Toys Toluca 1,Toluca,Downtown,2007-12-09,149.85
+17,3,8,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Toluca 1,Toluca,Downtown,2007-12-09,15.92
+17,6,16,Colorbuds,Electronics,6.99,14.99,Maven Toys Toluca 1,Toluca,Downtown,2007-12-09,111.84
+17,7,20,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Toluca 1,Toluca,Downtown,2007-12-09,239.8
+17,8,20,Deck Of Cards,Games,3.99,6.99,Maven Toys Toluca 1,Toluca,Downtown,2007-12-09,79.80000000000001
+17,9,7,Dino Egg,Toys,9.99,10.99,Maven Toys Toluca 1,Toluca,Downtown,2007-12-09,69.93
+17,10,67,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Toluca 1,Toluca,Downtown,2007-12-09,736.33
+17,11,6,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Toluca 1,Toluca,Downtown,2007-12-09,65.94
+17,12,10,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Toluca 1,Toluca,Downtown,2007-12-09,89.9
+17,13,16,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Toluca 1,Toluca,Downtown,2007-12-09,239.84
+17,14,4,Glass Marbles,Games,5.99,10.99,Maven Toys Toluca 1,Toluca,Downtown,2007-12-09,23.96
+17,15,11,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Toluca 1,Toluca,Downtown,2007-12-09,43.89
+17,17,27,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Toluca 1,Toluca,Downtown,2007-12-09,377.73
+17,18,27,Lego Bricks,Toys,34.99,39.99,Maven Toys Toluca 1,Toluca,Downtown,2007-12-09,944.73
+17,19,53,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Toluca 1,Toluca,Downtown,2007-12-09,741.47
+17,21,27,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Toluca 1,Toluca,Downtown,2007-12-09,188.73000000000002
+17,23,13,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Toluca 1,Toluca,Downtown,2007-12-09,64.87
+17,24,27,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Toluca 1,Toluca,Downtown,2007-12-09,404.73
+17,25,59,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Toluca 1,Toluca,Downtown,2007-12-09,117.41
+17,26,25,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Toluca 1,Toluca,Downtown,2007-12-09,524.75
+17,27,12,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Toluca 1,Toluca,Downtown,2007-12-09,47.88
+17,28,3,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Toluca 1,Toluca,Downtown,2007-12-09,11.97
+17,29,16,Plush Pony,Toys,8.99,19.99,Maven Toys Toluca 1,Toluca,Downtown,2007-12-09,143.84
+17,30,22,Rubik's Cube,Games,17.99,19.99,Maven Toys Toluca 1,Toluca,Downtown,2007-12-09,395.78
+17,31,20,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Toluca 1,Toluca,Downtown,2007-12-09,159.8
+17,32,15,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Toluca 1,Toluca,Downtown,2007-12-09,179.85
+17,33,27,Teddy Bear,Toys,10.99,12.99,Maven Toys Toluca 1,Toluca,Downtown,2007-12-09,296.73
+17,34,11,Toy Robot,Electronics,20.99,25.99,Maven Toys Toluca 1,Toluca,Downtown,2007-12-09,230.89
+18,1,1,Action Figure,Toys,9.99,15.99,Maven Toys Merida 1,Merida,Downtown,2008-08-22,9.99
+18,2,12,Animal Figures,Toys,9.99,12.99,Maven Toys Merida 1,Merida,Downtown,2008-08-22,119.88
+18,3,64,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Merida 1,Merida,Downtown,2008-08-22,127.36
+18,4,10,Chutes & Ladders,Games,9.99,12.99,Maven Toys Merida 1,Merida,Downtown,2008-08-22,99.9
+18,5,7,Classic Dominoes,Games,7.99,9.99,Maven Toys Merida 1,Merida,Downtown,2008-08-22,55.93
+18,6,22,Colorbuds,Electronics,6.99,14.99,Maven Toys Merida 1,Merida,Downtown,2008-08-22,153.78
+18,7,16,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Merida 1,Merida,Downtown,2008-08-22,191.84
+18,8,52,Deck Of Cards,Games,3.99,6.99,Maven Toys Merida 1,Merida,Downtown,2008-08-22,207.48000000000002
+18,9,50,Dino Egg,Toys,9.99,10.99,Maven Toys Merida 1,Merida,Downtown,2008-08-22,499.5
+18,10,16,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Merida 1,Merida,Downtown,2008-08-22,175.84
+18,11,12,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Merida 1,Merida,Downtown,2008-08-22,131.88
+18,12,3,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Merida 1,Merida,Downtown,2008-08-22,26.97
+18,13,30,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Merida 1,Merida,Downtown,2008-08-22,449.7
+18,14,67,Glass Marbles,Games,5.99,10.99,Maven Toys Merida 1,Merida,Downtown,2008-08-22,401.33000000000004
+18,15,5,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Merida 1,Merida,Downtown,2008-08-22,19.950000000000003
+18,16,10,Jenga,Games,2.99,9.99,Maven Toys Merida 1,Merida,Downtown,2008-08-22,29.900000000000002
+18,17,19,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Merida 1,Merida,Downtown,2008-08-22,265.81
+18,18,29,Lego Bricks,Toys,34.99,39.99,Maven Toys Merida 1,Merida,Downtown,2008-08-22,1014.71
+18,19,15,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Merida 1,Merida,Downtown,2008-08-22,209.85
+18,20,3,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,Maven Toys Merida 1,Merida,Downtown,2008-08-22,26.97
+18,21,29,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Merida 1,Merida,Downtown,2008-08-22,202.71
+18,22,18,Monopoly,Games,13.99,19.99,Maven Toys Merida 1,Merida,Downtown,2008-08-22,251.82
+18,23,16,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Merida 1,Merida,Downtown,2008-08-22,79.84
+18,24,26,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Merida 1,Merida,Downtown,2008-08-22,389.74
+18,25,74,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Merida 1,Merida,Downtown,2008-08-22,147.26
+18,26,2,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Merida 1,Merida,Downtown,2008-08-22,41.98
+18,27,40,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Merida 1,Merida,Downtown,2008-08-22,159.60000000000002
+18,28,0,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Merida 1,Merida,Downtown,2008-08-22,0.0
+18,29,28,Plush Pony,Toys,8.99,19.99,Maven Toys Merida 1,Merida,Downtown,2008-08-22,251.72
+18,30,15,Rubik's Cube,Games,17.99,19.99,Maven Toys Merida 1,Merida,Downtown,2008-08-22,269.84999999999997
+18,31,4,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Merida 1,Merida,Downtown,2008-08-22,31.96
+18,32,9,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Merida 1,Merida,Downtown,2008-08-22,107.91
+18,33,9,Teddy Bear,Toys,10.99,12.99,Maven Toys Merida 1,Merida,Downtown,2008-08-22,98.91
+18,34,8,Toy Robot,Electronics,20.99,25.99,Maven Toys Merida 1,Merida,Downtown,2008-08-22,167.92
+18,35,10,Uno Card Game,Games,3.99,7.99,Maven Toys Merida 1,Merida,Downtown,2008-08-22,39.900000000000006
+19,1,5,Action Figure,Toys,9.99,15.99,Maven Toys Puebla 1,Puebla,Commercial,2008-12-16,49.95
+19,2,14,Animal Figures,Toys,9.99,12.99,Maven Toys Puebla 1,Puebla,Commercial,2008-12-16,139.86
+19,3,7,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Puebla 1,Puebla,Commercial,2008-12-16,13.93
+19,4,18,Chutes & Ladders,Games,9.99,12.99,Maven Toys Puebla 1,Puebla,Commercial,2008-12-16,179.82
+19,5,17,Classic Dominoes,Games,7.99,9.99,Maven Toys Puebla 1,Puebla,Commercial,2008-12-16,135.83
+19,6,11,Colorbuds,Electronics,6.99,14.99,Maven Toys Puebla 1,Puebla,Commercial,2008-12-16,76.89
+19,7,16,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Puebla 1,Puebla,Commercial,2008-12-16,191.84
+19,8,84,Deck Of Cards,Games,3.99,6.99,Maven Toys Puebla 1,Puebla,Commercial,2008-12-16,335.16
+19,9,8,Dino Egg,Toys,9.99,10.99,Maven Toys Puebla 1,Puebla,Commercial,2008-12-16,79.92
+19,10,45,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Puebla 1,Puebla,Commercial,2008-12-16,494.55
+19,11,0,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Puebla 1,Puebla,Commercial,2008-12-16,0.0
+19,12,3,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Puebla 1,Puebla,Commercial,2008-12-16,26.97
+19,13,7,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Puebla 1,Puebla,Commercial,2008-12-16,104.93
+19,14,4,Glass Marbles,Games,5.99,10.99,Maven Toys Puebla 1,Puebla,Commercial,2008-12-16,23.96
+19,15,0,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Puebla 1,Puebla,Commercial,2008-12-16,0.0
+19,16,2,Jenga,Games,2.99,9.99,Maven Toys Puebla 1,Puebla,Commercial,2008-12-16,5.98
+19,17,5,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Puebla 1,Puebla,Commercial,2008-12-16,69.95
+19,18,19,Lego Bricks,Toys,34.99,39.99,Maven Toys Puebla 1,Puebla,Commercial,2008-12-16,664.8100000000001
+19,19,37,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Puebla 1,Puebla,Commercial,2008-12-16,517.63
+19,20,11,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,Maven Toys Puebla 1,Puebla,Commercial,2008-12-16,98.89
+19,21,24,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Puebla 1,Puebla,Commercial,2008-12-16,167.76
+19,22,3,Monopoly,Games,13.99,19.99,Maven Toys Puebla 1,Puebla,Commercial,2008-12-16,41.97
+19,23,10,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Puebla 1,Puebla,Commercial,2008-12-16,49.900000000000006
+19,24,16,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Puebla 1,Puebla,Commercial,2008-12-16,239.84
+19,25,18,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Puebla 1,Puebla,Commercial,2008-12-16,35.82
+19,26,5,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Puebla 1,Puebla,Commercial,2008-12-16,104.94999999999999
+19,27,27,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Puebla 1,Puebla,Commercial,2008-12-16,107.73
+19,28,6,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Puebla 1,Puebla,Commercial,2008-12-16,23.94
+19,29,29,Plush Pony,Toys,8.99,19.99,Maven Toys Puebla 1,Puebla,Commercial,2008-12-16,260.71
+19,30,7,Rubik's Cube,Games,17.99,19.99,Maven Toys Puebla 1,Puebla,Commercial,2008-12-16,125.92999999999999
+19,31,4,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Puebla 1,Puebla,Commercial,2008-12-16,31.96
+19,32,5,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Puebla 1,Puebla,Commercial,2008-12-16,59.95
+19,33,0,Teddy Bear,Toys,10.99,12.99,Maven Toys Puebla 1,Puebla,Commercial,2008-12-16,0.0
+19,34,15,Toy Robot,Electronics,20.99,25.99,Maven Toys Puebla 1,Puebla,Commercial,2008-12-16,314.84999999999997
+19,35,14,Uno Card Game,Games,3.99,7.99,Maven Toys Puebla 1,Puebla,Commercial,2008-12-16,55.86
+20,1,38,Action Figure,Toys,9.99,15.99,Maven Toys Zacatecas 1,Zacatecas,Downtown,2009-05-29,379.62
+20,2,2,Animal Figures,Toys,9.99,12.99,Maven Toys Zacatecas 1,Zacatecas,Downtown,2009-05-29,19.98
+20,3,24,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Zacatecas 1,Zacatecas,Downtown,2009-05-29,47.76
+20,6,4,Colorbuds,Electronics,6.99,14.99,Maven Toys Zacatecas 1,Zacatecas,Downtown,2009-05-29,27.96
+20,7,9,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Zacatecas 1,Zacatecas,Downtown,2009-05-29,107.91
+20,8,26,Deck Of Cards,Games,3.99,6.99,Maven Toys Zacatecas 1,Zacatecas,Downtown,2009-05-29,103.74000000000001
+20,9,9,Dino Egg,Toys,9.99,10.99,Maven Toys Zacatecas 1,Zacatecas,Downtown,2009-05-29,89.91
+20,10,34,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Zacatecas 1,Zacatecas,Downtown,2009-05-29,373.66
+20,11,3,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Zacatecas 1,Zacatecas,Downtown,2009-05-29,32.97
+20,12,4,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Zacatecas 1,Zacatecas,Downtown,2009-05-29,35.96
+20,13,11,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Zacatecas 1,Zacatecas,Downtown,2009-05-29,164.89000000000001
+20,14,6,Glass Marbles,Games,5.99,10.99,Maven Toys Zacatecas 1,Zacatecas,Downtown,2009-05-29,35.94
+20,15,36,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Zacatecas 1,Zacatecas,Downtown,2009-05-29,143.64000000000001
+20,17,23,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Zacatecas 1,Zacatecas,Downtown,2009-05-29,321.77
+20,18,8,Lego Bricks,Toys,34.99,39.99,Maven Toys Zacatecas 1,Zacatecas,Downtown,2009-05-29,279.92
+20,19,2,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Zacatecas 1,Zacatecas,Downtown,2009-05-29,27.98
+20,21,0,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Zacatecas 1,Zacatecas,Downtown,2009-05-29,0.0
+20,23,12,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Zacatecas 1,Zacatecas,Downtown,2009-05-29,59.88
+20,24,18,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Zacatecas 1,Zacatecas,Downtown,2009-05-29,269.82
+20,25,92,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Zacatecas 1,Zacatecas,Downtown,2009-05-29,183.08
+20,26,12,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Zacatecas 1,Zacatecas,Downtown,2009-05-29,251.88
+20,27,12,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Zacatecas 1,Zacatecas,Downtown,2009-05-29,47.88
+20,28,3,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Zacatecas 1,Zacatecas,Downtown,2009-05-29,11.97
+20,29,9,Plush Pony,Toys,8.99,19.99,Maven Toys Zacatecas 1,Zacatecas,Downtown,2009-05-29,80.91
+20,30,17,Rubik's Cube,Games,17.99,19.99,Maven Toys Zacatecas 1,Zacatecas,Downtown,2009-05-29,305.83
+20,31,10,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Zacatecas 1,Zacatecas,Downtown,2009-05-29,79.9
+20,32,9,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Zacatecas 1,Zacatecas,Downtown,2009-05-29,107.91
+20,33,28,Teddy Bear,Toys,10.99,12.99,Maven Toys Zacatecas 1,Zacatecas,Downtown,2009-05-29,307.72
+20,34,19,Toy Robot,Electronics,20.99,25.99,Maven Toys Zacatecas 1,Zacatecas,Downtown,2009-05-29,398.80999999999995
+21,1,7,Action Figure,Toys,9.99,15.99,Maven Toys Santiago 1,Santiago,Downtown,2009-11-23,69.93
+21,2,24,Animal Figures,Toys,9.99,12.99,Maven Toys Santiago 1,Santiago,Downtown,2009-11-23,239.76
+21,3,74,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Santiago 1,Santiago,Downtown,2009-11-23,147.26
+21,6,10,Colorbuds,Electronics,6.99,14.99,Maven Toys Santiago 1,Santiago,Downtown,2009-11-23,69.9
+21,7,8,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Santiago 1,Santiago,Downtown,2009-11-23,95.92
+21,8,11,Deck Of Cards,Games,3.99,6.99,Maven Toys Santiago 1,Santiago,Downtown,2009-11-23,43.89
+21,9,26,Dino Egg,Toys,9.99,10.99,Maven Toys Santiago 1,Santiago,Downtown,2009-11-23,259.74
+21,10,13,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Santiago 1,Santiago,Downtown,2009-11-23,142.87
+21,11,11,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Santiago 1,Santiago,Downtown,2009-11-23,120.89
+21,12,21,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Santiago 1,Santiago,Downtown,2009-11-23,188.79
+21,13,5,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Santiago 1,Santiago,Downtown,2009-11-23,74.95
+21,14,4,Glass Marbles,Games,5.99,10.99,Maven Toys Santiago 1,Santiago,Downtown,2009-11-23,23.96
+21,15,9,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Santiago 1,Santiago,Downtown,2009-11-23,35.910000000000004
+21,17,4,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Santiago 1,Santiago,Downtown,2009-11-23,55.96
+21,18,6,Lego Bricks,Toys,34.99,39.99,Maven Toys Santiago 1,Santiago,Downtown,2009-11-23,209.94
+21,19,49,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Santiago 1,Santiago,Downtown,2009-11-23,685.51
+21,21,14,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Santiago 1,Santiago,Downtown,2009-11-23,97.86
+21,23,30,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Santiago 1,Santiago,Downtown,2009-11-23,149.70000000000002
+21,24,19,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Santiago 1,Santiago,Downtown,2009-11-23,284.81
+21,25,46,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Santiago 1,Santiago,Downtown,2009-11-23,91.54
+21,26,21,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Santiago 1,Santiago,Downtown,2009-11-23,440.78999999999996
+21,27,54,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Santiago 1,Santiago,Downtown,2009-11-23,215.46
+21,28,7,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Santiago 1,Santiago,Downtown,2009-11-23,27.93
+21,29,8,Plush Pony,Toys,8.99,19.99,Maven Toys Santiago 1,Santiago,Downtown,2009-11-23,71.92
+21,30,49,Rubik's Cube,Games,17.99,19.99,Maven Toys Santiago 1,Santiago,Downtown,2009-11-23,881.5099999999999
+21,31,19,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Santiago 1,Santiago,Downtown,2009-11-23,151.81
+21,32,3,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Santiago 1,Santiago,Downtown,2009-11-23,35.97
+21,33,16,Teddy Bear,Toys,10.99,12.99,Maven Toys Santiago 1,Santiago,Downtown,2009-11-23,175.84
+21,34,16,Toy Robot,Electronics,20.99,25.99,Maven Toys Santiago 1,Santiago,Downtown,2009-11-23,335.84
+22,1,10,Action Figure,Toys,9.99,15.99,Maven Toys Guanajuato 2,Guanajuato,Commercial,2010-03-29,99.9
+22,2,25,Animal Figures,Toys,9.99,12.99,Maven Toys Guanajuato 2,Guanajuato,Commercial,2010-03-29,249.75
+22,3,0,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Guanajuato 2,Guanajuato,Commercial,2010-03-29,0.0
+22,4,6,Chutes & Ladders,Games,9.99,12.99,Maven Toys Guanajuato 2,Guanajuato,Commercial,2010-03-29,59.94
+22,5,14,Classic Dominoes,Games,7.99,9.99,Maven Toys Guanajuato 2,Guanajuato,Commercial,2010-03-29,111.86
+22,6,8,Colorbuds,Electronics,6.99,14.99,Maven Toys Guanajuato 2,Guanajuato,Commercial,2010-03-29,55.92
+22,7,30,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Guanajuato 2,Guanajuato,Commercial,2010-03-29,359.7
+22,8,71,Deck Of Cards,Games,3.99,6.99,Maven Toys Guanajuato 2,Guanajuato,Commercial,2010-03-29,283.29
+22,9,14,Dino Egg,Toys,9.99,10.99,Maven Toys Guanajuato 2,Guanajuato,Commercial,2010-03-29,139.86
+22,10,64,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Guanajuato 2,Guanajuato,Commercial,2010-03-29,703.36
+22,11,7,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Guanajuato 2,Guanajuato,Commercial,2010-03-29,76.93
+22,12,3,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Guanajuato 2,Guanajuato,Commercial,2010-03-29,26.97
+22,13,19,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Guanajuato 2,Guanajuato,Commercial,2010-03-29,284.81
+22,14,5,Glass Marbles,Games,5.99,10.99,Maven Toys Guanajuato 2,Guanajuato,Commercial,2010-03-29,29.950000000000003
+22,15,0,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Guanajuato 2,Guanajuato,Commercial,2010-03-29,0.0
+22,16,3,Jenga,Games,2.99,9.99,Maven Toys Guanajuato 2,Guanajuato,Commercial,2010-03-29,8.97
+22,17,10,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Guanajuato 2,Guanajuato,Commercial,2010-03-29,139.9
+22,18,13,Lego Bricks,Toys,34.99,39.99,Maven Toys Guanajuato 2,Guanajuato,Commercial,2010-03-29,454.87
+22,19,17,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Guanajuato 2,Guanajuato,Commercial,2010-03-29,237.83
+22,20,18,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,Maven Toys Guanajuato 2,Guanajuato,Commercial,2010-03-29,161.82
+22,21,30,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Guanajuato 2,Guanajuato,Commercial,2010-03-29,209.70000000000002
+22,22,4,Monopoly,Games,13.99,19.99,Maven Toys Guanajuato 2,Guanajuato,Commercial,2010-03-29,55.96
+22,23,7,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Guanajuato 2,Guanajuato,Commercial,2010-03-29,34.93
+22,24,29,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Guanajuato 2,Guanajuato,Commercial,2010-03-29,434.71
+22,25,6,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Guanajuato 2,Guanajuato,Commercial,2010-03-29,11.94
+22,26,15,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Guanajuato 2,Guanajuato,Commercial,2010-03-29,314.84999999999997
+22,27,45,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Guanajuato 2,Guanajuato,Commercial,2010-03-29,179.55
+22,28,0,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Guanajuato 2,Guanajuato,Commercial,2010-03-29,0.0
+22,29,5,Plush Pony,Toys,8.99,19.99,Maven Toys Guanajuato 2,Guanajuato,Commercial,2010-03-29,44.95
+22,30,22,Rubik's Cube,Games,17.99,19.99,Maven Toys Guanajuato 2,Guanajuato,Commercial,2010-03-29,395.78
+22,31,34,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Guanajuato 2,Guanajuato,Commercial,2010-03-29,271.66
+22,32,38,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Guanajuato 2,Guanajuato,Commercial,2010-03-29,455.62
+22,33,8,Teddy Bear,Toys,10.99,12.99,Maven Toys Guanajuato 2,Guanajuato,Commercial,2010-03-29,87.92
+22,34,6,Toy Robot,Electronics,20.99,25.99,Maven Toys Guanajuato 2,Guanajuato,Commercial,2010-03-29,125.94
+22,35,2,Uno Card Game,Games,3.99,7.99,Maven Toys Guanajuato 2,Guanajuato,Commercial,2010-03-29,7.98
+23,1,4,Action Figure,Toys,9.99,15.99,Maven Toys Chihuahua 1,Chihuahua,Commercial,2010-06-12,39.96
+23,2,11,Animal Figures,Toys,9.99,12.99,Maven Toys Chihuahua 1,Chihuahua,Commercial,2010-06-12,109.89
+23,3,5,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Chihuahua 1,Chihuahua,Commercial,2010-06-12,9.95
+23,4,3,Chutes & Ladders,Games,9.99,12.99,Maven Toys Chihuahua 1,Chihuahua,Commercial,2010-06-12,29.97
+23,5,4,Classic Dominoes,Games,7.99,9.99,Maven Toys Chihuahua 1,Chihuahua,Commercial,2010-06-12,31.96
+23,6,17,Colorbuds,Electronics,6.99,14.99,Maven Toys Chihuahua 1,Chihuahua,Commercial,2010-06-12,118.83
+23,7,11,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Chihuahua 1,Chihuahua,Commercial,2010-06-12,131.89000000000001
+23,8,32,Deck Of Cards,Games,3.99,6.99,Maven Toys Chihuahua 1,Chihuahua,Commercial,2010-06-12,127.68
+23,9,9,Dino Egg,Toys,9.99,10.99,Maven Toys Chihuahua 1,Chihuahua,Commercial,2010-06-12,89.91
+23,10,35,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Chihuahua 1,Chihuahua,Commercial,2010-06-12,384.65000000000003
+23,11,18,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Chihuahua 1,Chihuahua,Commercial,2010-06-12,197.82
+23,12,14,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Chihuahua 1,Chihuahua,Commercial,2010-06-12,125.86
+23,13,31,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Chihuahua 1,Chihuahua,Commercial,2010-06-12,464.69
+23,14,7,Glass Marbles,Games,5.99,10.99,Maven Toys Chihuahua 1,Chihuahua,Commercial,2010-06-12,41.93
+23,15,14,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Chihuahua 1,Chihuahua,Commercial,2010-06-12,55.86
+23,16,7,Jenga,Games,2.99,9.99,Maven Toys Chihuahua 1,Chihuahua,Commercial,2010-06-12,20.93
+23,17,9,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Chihuahua 1,Chihuahua,Commercial,2010-06-12,125.91
+23,18,42,Lego Bricks,Toys,34.99,39.99,Maven Toys Chihuahua 1,Chihuahua,Commercial,2010-06-12,1469.5800000000002
+23,19,27,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Chihuahua 1,Chihuahua,Commercial,2010-06-12,377.73
+23,20,2,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,Maven Toys Chihuahua 1,Chihuahua,Commercial,2010-06-12,17.98
+23,21,30,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Chihuahua 1,Chihuahua,Commercial,2010-06-12,209.70000000000002
+23,22,11,Monopoly,Games,13.99,19.99,Maven Toys Chihuahua 1,Chihuahua,Commercial,2010-06-12,153.89000000000001
+23,23,8,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Chihuahua 1,Chihuahua,Commercial,2010-06-12,39.92
+23,24,40,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Chihuahua 1,Chihuahua,Commercial,2010-06-12,599.6
+23,25,38,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Chihuahua 1,Chihuahua,Commercial,2010-06-12,75.62
+23,26,15,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Chihuahua 1,Chihuahua,Commercial,2010-06-12,314.84999999999997
+23,27,7,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Chihuahua 1,Chihuahua,Commercial,2010-06-12,27.93
+23,28,48,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Chihuahua 1,Chihuahua,Commercial,2010-06-12,191.52
+23,29,9,Plush Pony,Toys,8.99,19.99,Maven Toys Chihuahua 1,Chihuahua,Commercial,2010-06-12,80.91
+23,30,38,Rubik's Cube,Games,17.99,19.99,Maven Toys Chihuahua 1,Chihuahua,Commercial,2010-06-12,683.6199999999999
+23,31,19,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Chihuahua 1,Chihuahua,Commercial,2010-06-12,151.81
+23,32,11,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Chihuahua 1,Chihuahua,Commercial,2010-06-12,131.89000000000001
+23,33,6,Teddy Bear,Toys,10.99,12.99,Maven Toys Chihuahua 1,Chihuahua,Commercial,2010-06-12,65.94
+23,34,18,Toy Robot,Electronics,20.99,25.99,Maven Toys Chihuahua 1,Chihuahua,Commercial,2010-06-12,377.82
+23,35,4,Uno Card Game,Games,3.99,7.99,Maven Toys Chihuahua 1,Chihuahua,Commercial,2010-06-12,15.96
+24,1,11,Action Figure,Toys,9.99,15.99,Maven Toys Aguascalientes 1,Aguascalientes,Downtown,2010-07-31,109.89
+24,2,25,Animal Figures,Toys,9.99,12.99,Maven Toys Aguascalientes 1,Aguascalientes,Downtown,2010-07-31,249.75
+24,3,13,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Aguascalientes 1,Aguascalientes,Downtown,2010-07-31,25.87
+24,4,1,Chutes & Ladders,Games,9.99,12.99,Maven Toys Aguascalientes 1,Aguascalientes,Downtown,2010-07-31,9.99
+24,5,4,Classic Dominoes,Games,7.99,9.99,Maven Toys Aguascalientes 1,Aguascalientes,Downtown,2010-07-31,31.96
+24,6,46,Colorbuds,Electronics,6.99,14.99,Maven Toys Aguascalientes 1,Aguascalientes,Downtown,2010-07-31,321.54
+24,7,15,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Aguascalientes 1,Aguascalientes,Downtown,2010-07-31,179.85
+24,8,53,Deck Of Cards,Games,3.99,6.99,Maven Toys Aguascalientes 1,Aguascalientes,Downtown,2010-07-31,211.47
+24,9,19,Dino Egg,Toys,9.99,10.99,Maven Toys Aguascalientes 1,Aguascalientes,Downtown,2010-07-31,189.81
+24,10,19,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Aguascalientes 1,Aguascalientes,Downtown,2010-07-31,208.81
+24,11,13,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Aguascalientes 1,Aguascalientes,Downtown,2010-07-31,142.87
+24,12,0,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Aguascalientes 1,Aguascalientes,Downtown,2010-07-31,0.0
+24,13,10,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Aguascalientes 1,Aguascalientes,Downtown,2010-07-31,149.9
+24,14,36,Glass Marbles,Games,5.99,10.99,Maven Toys Aguascalientes 1,Aguascalientes,Downtown,2010-07-31,215.64000000000001
+24,15,0,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Aguascalientes 1,Aguascalientes,Downtown,2010-07-31,0.0
+24,16,3,Jenga,Games,2.99,9.99,Maven Toys Aguascalientes 1,Aguascalientes,Downtown,2010-07-31,8.97
+24,17,27,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Aguascalientes 1,Aguascalientes,Downtown,2010-07-31,377.73
+24,18,20,Lego Bricks,Toys,34.99,39.99,Maven Toys Aguascalientes 1,Aguascalientes,Downtown,2010-07-31,699.8000000000001
+24,19,67,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Aguascalientes 1,Aguascalientes,Downtown,2010-07-31,937.33
+24,20,7,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,Maven Toys Aguascalientes 1,Aguascalientes,Downtown,2010-07-31,62.93
+24,21,0,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Aguascalientes 1,Aguascalientes,Downtown,2010-07-31,0.0
+24,22,13,Monopoly,Games,13.99,19.99,Maven Toys Aguascalientes 1,Aguascalientes,Downtown,2010-07-31,181.87
+24,23,16,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Aguascalientes 1,Aguascalientes,Downtown,2010-07-31,79.84
+24,24,4,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Aguascalientes 1,Aguascalientes,Downtown,2010-07-31,59.96
+24,25,48,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Aguascalientes 1,Aguascalientes,Downtown,2010-07-31,95.52
+24,26,21,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Aguascalientes 1,Aguascalientes,Downtown,2010-07-31,440.78999999999996
+24,27,50,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Aguascalientes 1,Aguascalientes,Downtown,2010-07-31,199.5
+24,28,0,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Aguascalientes 1,Aguascalientes,Downtown,2010-07-31,0.0
+24,29,3,Plush Pony,Toys,8.99,19.99,Maven Toys Aguascalientes 1,Aguascalientes,Downtown,2010-07-31,26.97
+24,30,50,Rubik's Cube,Games,17.99,19.99,Maven Toys Aguascalientes 1,Aguascalientes,Downtown,2010-07-31,899.4999999999999
+24,31,10,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Aguascalientes 1,Aguascalientes,Downtown,2010-07-31,79.9
+24,32,10,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Aguascalientes 1,Aguascalientes,Downtown,2010-07-31,119.9
+24,33,4,Teddy Bear,Toys,10.99,12.99,Maven Toys Aguascalientes 1,Aguascalientes,Downtown,2010-07-31,43.96
+24,34,17,Toy Robot,Electronics,20.99,25.99,Maven Toys Aguascalientes 1,Aguascalientes,Downtown,2010-07-31,356.83
+24,35,19,Uno Card Game,Games,3.99,7.99,Maven Toys Aguascalientes 1,Aguascalientes,Downtown,2010-07-31,75.81
+25,1,8,Action Figure,Toys,9.99,15.99,Maven Toys Ciudad Victoria 1,Ciudad Victoria,Downtown,2010-09-08,79.92
+25,2,18,Animal Figures,Toys,9.99,12.99,Maven Toys Ciudad Victoria 1,Ciudad Victoria,Downtown,2010-09-08,179.82
+25,3,43,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Ciudad Victoria 1,Ciudad Victoria,Downtown,2010-09-08,85.57
+25,6,3,Colorbuds,Electronics,6.99,14.99,Maven Toys Ciudad Victoria 1,Ciudad Victoria,Downtown,2010-09-08,20.97
+25,7,7,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Ciudad Victoria 1,Ciudad Victoria,Downtown,2010-09-08,83.93
+25,8,66,Deck Of Cards,Games,3.99,6.99,Maven Toys Ciudad Victoria 1,Ciudad Victoria,Downtown,2010-09-08,263.34000000000003
+25,9,9,Dino Egg,Toys,9.99,10.99,Maven Toys Ciudad Victoria 1,Ciudad Victoria,Downtown,2010-09-08,89.91
+25,10,8,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Ciudad Victoria 1,Ciudad Victoria,Downtown,2010-09-08,87.92
+25,11,3,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Ciudad Victoria 1,Ciudad Victoria,Downtown,2010-09-08,32.97
+25,12,17,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Ciudad Victoria 1,Ciudad Victoria,Downtown,2010-09-08,152.83
+25,13,23,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Ciudad Victoria 1,Ciudad Victoria,Downtown,2010-09-08,344.77
+25,14,20,Glass Marbles,Games,5.99,10.99,Maven Toys Ciudad Victoria 1,Ciudad Victoria,Downtown,2010-09-08,119.80000000000001
+25,15,13,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Ciudad Victoria 1,Ciudad Victoria,Downtown,2010-09-08,51.870000000000005
+25,17,4,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Ciudad Victoria 1,Ciudad Victoria,Downtown,2010-09-08,55.96
+25,18,34,Lego Bricks,Toys,34.99,39.99,Maven Toys Ciudad Victoria 1,Ciudad Victoria,Downtown,2010-09-08,1189.66
+25,19,28,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Ciudad Victoria 1,Ciudad Victoria,Downtown,2010-09-08,391.72
+25,21,5,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Ciudad Victoria 1,Ciudad Victoria,Downtown,2010-09-08,34.95
+25,23,10,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Ciudad Victoria 1,Ciudad Victoria,Downtown,2010-09-08,49.900000000000006
+25,24,10,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Ciudad Victoria 1,Ciudad Victoria,Downtown,2010-09-08,149.9
+25,25,80,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Ciudad Victoria 1,Ciudad Victoria,Downtown,2010-09-08,159.2
+25,26,3,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Ciudad Victoria 1,Ciudad Victoria,Downtown,2010-09-08,62.97
+25,27,29,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Ciudad Victoria 1,Ciudad Victoria,Downtown,2010-09-08,115.71000000000001
+25,28,16,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Ciudad Victoria 1,Ciudad Victoria,Downtown,2010-09-08,63.84
+25,29,6,Plush Pony,Toys,8.99,19.99,Maven Toys Ciudad Victoria 1,Ciudad Victoria,Downtown,2010-09-08,53.94
+25,30,46,Rubik's Cube,Games,17.99,19.99,Maven Toys Ciudad Victoria 1,Ciudad Victoria,Downtown,2010-09-08,827.54
+25,31,0,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Ciudad Victoria 1,Ciudad Victoria,Downtown,2010-09-08,0.0
+25,32,10,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Ciudad Victoria 1,Ciudad Victoria,Downtown,2010-09-08,119.9
+25,33,4,Teddy Bear,Toys,10.99,12.99,Maven Toys Ciudad Victoria 1,Ciudad Victoria,Downtown,2010-09-08,43.96
+25,34,23,Toy Robot,Electronics,20.99,25.99,Maven Toys Ciudad Victoria 1,Ciudad Victoria,Downtown,2010-09-08,482.77
+26,1,6,Action Figure,Toys,9.99,15.99,Maven Toys Campeche 2,Campeche,Commercial,2010-09-15,59.94
+26,2,15,Animal Figures,Toys,9.99,12.99,Maven Toys Campeche 2,Campeche,Commercial,2010-09-15,149.85
+26,3,15,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Campeche 2,Campeche,Commercial,2010-09-15,29.85
+26,4,12,Chutes & Ladders,Games,9.99,12.99,Maven Toys Campeche 2,Campeche,Commercial,2010-09-15,119.88
+26,5,8,Classic Dominoes,Games,7.99,9.99,Maven Toys Campeche 2,Campeche,Commercial,2010-09-15,63.92
+26,6,23,Colorbuds,Electronics,6.99,14.99,Maven Toys Campeche 2,Campeche,Commercial,2010-09-15,160.77
+26,7,16,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Campeche 2,Campeche,Commercial,2010-09-15,191.84
+26,8,22,Deck Of Cards,Games,3.99,6.99,Maven Toys Campeche 2,Campeche,Commercial,2010-09-15,87.78
+26,9,15,Dino Egg,Toys,9.99,10.99,Maven Toys Campeche 2,Campeche,Commercial,2010-09-15,149.85
+26,10,25,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Campeche 2,Campeche,Commercial,2010-09-15,274.75
+26,11,2,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Campeche 2,Campeche,Commercial,2010-09-15,21.98
+26,12,14,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Campeche 2,Campeche,Commercial,2010-09-15,125.86
+26,13,20,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Campeche 2,Campeche,Commercial,2010-09-15,299.8
+26,14,2,Glass Marbles,Games,5.99,10.99,Maven Toys Campeche 2,Campeche,Commercial,2010-09-15,11.98
+26,15,20,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Campeche 2,Campeche,Commercial,2010-09-15,79.80000000000001
+26,16,20,Jenga,Games,2.99,9.99,Maven Toys Campeche 2,Campeche,Commercial,2010-09-15,59.800000000000004
+26,17,6,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Campeche 2,Campeche,Commercial,2010-09-15,83.94
+26,18,7,Lego Bricks,Toys,34.99,39.99,Maven Toys Campeche 2,Campeche,Commercial,2010-09-15,244.93
+26,19,90,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Campeche 2,Campeche,Commercial,2010-09-15,1259.1
+26,20,6,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,Maven Toys Campeche 2,Campeche,Commercial,2010-09-15,53.94
+26,21,26,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Campeche 2,Campeche,Commercial,2010-09-15,181.74
+26,22,5,Monopoly,Games,13.99,19.99,Maven Toys Campeche 2,Campeche,Commercial,2010-09-15,69.95
+26,23,4,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Campeche 2,Campeche,Commercial,2010-09-15,19.96
+26,24,11,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Campeche 2,Campeche,Commercial,2010-09-15,164.89000000000001
+26,25,71,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Campeche 2,Campeche,Commercial,2010-09-15,141.29
+26,26,4,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Campeche 2,Campeche,Commercial,2010-09-15,83.96
+26,27,8,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Campeche 2,Campeche,Commercial,2010-09-15,31.92
+26,28,26,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Campeche 2,Campeche,Commercial,2010-09-15,103.74000000000001
+26,29,3,Plush Pony,Toys,8.99,19.99,Maven Toys Campeche 2,Campeche,Commercial,2010-09-15,26.97
+26,30,46,Rubik's Cube,Games,17.99,19.99,Maven Toys Campeche 2,Campeche,Commercial,2010-09-15,827.54
+26,31,4,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Campeche 2,Campeche,Commercial,2010-09-15,31.96
+26,32,2,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Campeche 2,Campeche,Commercial,2010-09-15,23.98
+26,33,2,Teddy Bear,Toys,10.99,12.99,Maven Toys Campeche 2,Campeche,Commercial,2010-09-15,21.98
+26,34,17,Toy Robot,Electronics,20.99,25.99,Maven Toys Campeche 2,Campeche,Commercial,2010-09-15,356.83
+26,35,8,Uno Card Game,Games,3.99,7.99,Maven Toys Campeche 2,Campeche,Commercial,2010-09-15,31.92
+27,1,27,Action Figure,Toys,9.99,15.99,Maven Toys Oaxaca 1,Oaxaca,Downtown,2010-10-02,269.73
+27,2,30,Animal Figures,Toys,9.99,12.99,Maven Toys Oaxaca 1,Oaxaca,Downtown,2010-10-02,299.7
+27,3,55,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Oaxaca 1,Oaxaca,Downtown,2010-10-02,109.45
+27,6,7,Colorbuds,Electronics,6.99,14.99,Maven Toys Oaxaca 1,Oaxaca,Downtown,2010-10-02,48.93
+27,7,22,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Oaxaca 1,Oaxaca,Downtown,2010-10-02,263.78000000000003
+27,8,12,Deck Of Cards,Games,3.99,6.99,Maven Toys Oaxaca 1,Oaxaca,Downtown,2010-10-02,47.88
+27,9,6,Dino Egg,Toys,9.99,10.99,Maven Toys Oaxaca 1,Oaxaca,Downtown,2010-10-02,59.94
+27,10,45,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Oaxaca 1,Oaxaca,Downtown,2010-10-02,494.55
+27,11,0,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Oaxaca 1,Oaxaca,Downtown,2010-10-02,0.0
+27,12,5,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Oaxaca 1,Oaxaca,Downtown,2010-10-02,44.95
+27,13,10,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Oaxaca 1,Oaxaca,Downtown,2010-10-02,149.9
+27,14,21,Glass Marbles,Games,5.99,10.99,Maven Toys Oaxaca 1,Oaxaca,Downtown,2010-10-02,125.79
+27,15,3,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Oaxaca 1,Oaxaca,Downtown,2010-10-02,11.97
+27,17,2,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Oaxaca 1,Oaxaca,Downtown,2010-10-02,27.98
+27,18,18,Lego Bricks,Toys,34.99,39.99,Maven Toys Oaxaca 1,Oaxaca,Downtown,2010-10-02,629.82
+27,19,34,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Oaxaca 1,Oaxaca,Downtown,2010-10-02,475.66
+27,21,2,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Oaxaca 1,Oaxaca,Downtown,2010-10-02,13.98
+27,23,16,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Oaxaca 1,Oaxaca,Downtown,2010-10-02,79.84
+27,24,46,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Oaxaca 1,Oaxaca,Downtown,2010-10-02,689.54
+27,25,18,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Oaxaca 1,Oaxaca,Downtown,2010-10-02,35.82
+27,26,6,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Oaxaca 1,Oaxaca,Downtown,2010-10-02,125.94
+27,27,11,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Oaxaca 1,Oaxaca,Downtown,2010-10-02,43.89
+27,28,8,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Oaxaca 1,Oaxaca,Downtown,2010-10-02,31.92
+27,29,3,Plush Pony,Toys,8.99,19.99,Maven Toys Oaxaca 1,Oaxaca,Downtown,2010-10-02,26.97
+27,30,37,Rubik's Cube,Games,17.99,19.99,Maven Toys Oaxaca 1,Oaxaca,Downtown,2010-10-02,665.63
+27,31,13,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Oaxaca 1,Oaxaca,Downtown,2010-10-02,103.87
+27,32,6,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Oaxaca 1,Oaxaca,Downtown,2010-10-02,71.94
+27,33,7,Teddy Bear,Toys,10.99,12.99,Maven Toys Oaxaca 1,Oaxaca,Downtown,2010-10-02,76.93
+27,34,9,Toy Robot,Electronics,20.99,25.99,Maven Toys Oaxaca 1,Oaxaca,Downtown,2010-10-02,188.91
+28,1,6,Action Figure,Toys,9.99,15.99,Maven Toys Puebla 2,Puebla,Downtown,2011-04-01,59.94
+28,2,0,Animal Figures,Toys,9.99,12.99,Maven Toys Puebla 2,Puebla,Downtown,2011-04-01,0.0
+28,3,60,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Puebla 2,Puebla,Downtown,2011-04-01,119.4
+28,6,16,Colorbuds,Electronics,6.99,14.99,Maven Toys Puebla 2,Puebla,Downtown,2011-04-01,111.84
+28,7,10,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Puebla 2,Puebla,Downtown,2011-04-01,119.9
+28,8,45,Deck Of Cards,Games,3.99,6.99,Maven Toys Puebla 2,Puebla,Downtown,2011-04-01,179.55
+28,9,7,Dino Egg,Toys,9.99,10.99,Maven Toys Puebla 2,Puebla,Downtown,2011-04-01,69.93
+28,10,8,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Puebla 2,Puebla,Downtown,2011-04-01,87.92
+28,11,4,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Puebla 2,Puebla,Downtown,2011-04-01,43.96
+28,12,4,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Puebla 2,Puebla,Downtown,2011-04-01,35.96
+28,13,2,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Puebla 2,Puebla,Downtown,2011-04-01,29.98
+28,14,17,Glass Marbles,Games,5.99,10.99,Maven Toys Puebla 2,Puebla,Downtown,2011-04-01,101.83
+28,15,0,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Puebla 2,Puebla,Downtown,2011-04-01,0.0
+28,17,17,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Puebla 2,Puebla,Downtown,2011-04-01,237.83
+28,18,24,Lego Bricks,Toys,34.99,39.99,Maven Toys Puebla 2,Puebla,Downtown,2011-04-01,839.76
+28,19,13,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Puebla 2,Puebla,Downtown,2011-04-01,181.87
+28,21,11,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Puebla 2,Puebla,Downtown,2011-04-01,76.89
+28,23,24,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Puebla 2,Puebla,Downtown,2011-04-01,119.76
+28,24,19,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Puebla 2,Puebla,Downtown,2011-04-01,284.81
+28,25,10,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Puebla 2,Puebla,Downtown,2011-04-01,19.9
+28,26,15,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Puebla 2,Puebla,Downtown,2011-04-01,314.84999999999997
+28,27,24,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Puebla 2,Puebla,Downtown,2011-04-01,95.76
+28,28,3,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Puebla 2,Puebla,Downtown,2011-04-01,11.97
+28,29,5,Plush Pony,Toys,8.99,19.99,Maven Toys Puebla 2,Puebla,Downtown,2011-04-01,44.95
+28,30,27,Rubik's Cube,Games,17.99,19.99,Maven Toys Puebla 2,Puebla,Downtown,2011-04-01,485.72999999999996
+28,31,18,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Puebla 2,Puebla,Downtown,2011-04-01,143.82
+28,32,3,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Puebla 2,Puebla,Downtown,2011-04-01,35.97
+28,33,9,Teddy Bear,Toys,10.99,12.99,Maven Toys Puebla 2,Puebla,Downtown,2011-04-01,98.91
+28,34,19,Toy Robot,Electronics,20.99,25.99,Maven Toys Puebla 2,Puebla,Downtown,2011-04-01,398.80999999999995
+29,1,2,Action Figure,Toys,9.99,15.99,Maven Toys Xalapa 1,Xalapa,Commercial,2011-06-21,19.98
+29,2,15,Animal Figures,Toys,9.99,12.99,Maven Toys Xalapa 1,Xalapa,Commercial,2011-06-21,149.85
+29,3,17,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Xalapa 1,Xalapa,Commercial,2011-06-21,33.83
+29,6,17,Colorbuds,Electronics,6.99,14.99,Maven Toys Xalapa 1,Xalapa,Commercial,2011-06-21,118.83
+29,7,10,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Xalapa 1,Xalapa,Commercial,2011-06-21,119.9
+29,8,10,Deck Of Cards,Games,3.99,6.99,Maven Toys Xalapa 1,Xalapa,Commercial,2011-06-21,39.900000000000006
+29,9,6,Dino Egg,Toys,9.99,10.99,Maven Toys Xalapa 1,Xalapa,Commercial,2011-06-21,59.94
+29,10,45,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Xalapa 1,Xalapa,Commercial,2011-06-21,494.55
+29,11,8,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Xalapa 1,Xalapa,Commercial,2011-06-21,87.92
+29,12,6,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Xalapa 1,Xalapa,Commercial,2011-06-21,53.94
+29,13,5,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Xalapa 1,Xalapa,Commercial,2011-06-21,74.95
+29,14,5,Glass Marbles,Games,5.99,10.99,Maven Toys Xalapa 1,Xalapa,Commercial,2011-06-21,29.950000000000003
+29,15,18,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Xalapa 1,Xalapa,Commercial,2011-06-21,71.82000000000001
+29,17,25,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Xalapa 1,Xalapa,Commercial,2011-06-21,349.75
+29,18,26,Lego Bricks,Toys,34.99,39.99,Maven Toys Xalapa 1,Xalapa,Commercial,2011-06-21,909.74
+29,19,12,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Xalapa 1,Xalapa,Commercial,2011-06-21,167.88
+29,21,10,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Xalapa 1,Xalapa,Commercial,2011-06-21,69.9
+29,23,37,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Xalapa 1,Xalapa,Commercial,2011-06-21,184.63
+29,24,14,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Xalapa 1,Xalapa,Commercial,2011-06-21,209.86
+29,25,47,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Xalapa 1,Xalapa,Commercial,2011-06-21,93.53
+29,26,2,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Xalapa 1,Xalapa,Commercial,2011-06-21,41.98
+29,27,27,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Xalapa 1,Xalapa,Commercial,2011-06-21,107.73
+29,28,1,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Xalapa 1,Xalapa,Commercial,2011-06-21,3.99
+29,29,6,Plush Pony,Toys,8.99,19.99,Maven Toys Xalapa 1,Xalapa,Commercial,2011-06-21,53.94
+29,30,32,Rubik's Cube,Games,17.99,19.99,Maven Toys Xalapa 1,Xalapa,Commercial,2011-06-21,575.68
+29,31,3,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Xalapa 1,Xalapa,Commercial,2011-06-21,23.97
+29,32,7,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Xalapa 1,Xalapa,Commercial,2011-06-21,83.93
+29,33,6,Teddy Bear,Toys,10.99,12.99,Maven Toys Xalapa 1,Xalapa,Commercial,2011-06-21,65.94
+29,34,16,Toy Robot,Electronics,20.99,25.99,Maven Toys Xalapa 1,Xalapa,Commercial,2011-06-21,335.84
+30,1,15,Action Figure,Toys,9.99,15.99,Maven Toys Guadalajara 3,Guadalajara,Airport,2011-10-20,149.85
+30,2,30,Animal Figures,Toys,9.99,12.99,Maven Toys Guadalajara 3,Guadalajara,Airport,2011-10-20,299.7
+30,3,10,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Guadalajara 3,Guadalajara,Airport,2011-10-20,19.9
+30,6,18,Colorbuds,Electronics,6.99,14.99,Maven Toys Guadalajara 3,Guadalajara,Airport,2011-10-20,125.82000000000001
+30,7,13,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Guadalajara 3,Guadalajara,Airport,2011-10-20,155.87
+30,8,110,Deck Of Cards,Games,3.99,6.99,Maven Toys Guadalajara 3,Guadalajara,Airport,2011-10-20,438.90000000000003
+30,9,59,Dino Egg,Toys,9.99,10.99,Maven Toys Guadalajara 3,Guadalajara,Airport,2011-10-20,589.41
+30,10,55,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Guadalajara 3,Guadalajara,Airport,2011-10-20,604.45
+30,11,3,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Guadalajara 3,Guadalajara,Airport,2011-10-20,32.97
+30,12,8,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Guadalajara 3,Guadalajara,Airport,2011-10-20,71.92
+30,13,18,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Guadalajara 3,Guadalajara,Airport,2011-10-20,269.82
+30,14,10,Glass Marbles,Games,5.99,10.99,Maven Toys Guadalajara 3,Guadalajara,Airport,2011-10-20,59.900000000000006
+30,15,9,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Guadalajara 3,Guadalajara,Airport,2011-10-20,35.910000000000004
+30,17,13,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Guadalajara 3,Guadalajara,Airport,2011-10-20,181.87
+30,18,9,Lego Bricks,Toys,34.99,39.99,Maven Toys Guadalajara 3,Guadalajara,Airport,2011-10-20,314.91
+30,19,19,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Guadalajara 3,Guadalajara,Airport,2011-10-20,265.81
+30,21,18,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Guadalajara 3,Guadalajara,Airport,2011-10-20,125.82000000000001
+30,23,12,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Guadalajara 3,Guadalajara,Airport,2011-10-20,59.88
+30,24,23,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Guadalajara 3,Guadalajara,Airport,2011-10-20,344.77
+30,25,6,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Guadalajara 3,Guadalajara,Airport,2011-10-20,11.94
+30,26,13,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Guadalajara 3,Guadalajara,Airport,2011-10-20,272.87
+30,27,29,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Guadalajara 3,Guadalajara,Airport,2011-10-20,115.71000000000001
+30,28,3,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Guadalajara 3,Guadalajara,Airport,2011-10-20,11.97
+30,29,19,Plush Pony,Toys,8.99,19.99,Maven Toys Guadalajara 3,Guadalajara,Airport,2011-10-20,170.81
+30,30,21,Rubik's Cube,Games,17.99,19.99,Maven Toys Guadalajara 3,Guadalajara,Airport,2011-10-20,377.78999999999996
+30,31,20,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Guadalajara 3,Guadalajara,Airport,2011-10-20,159.8
+30,32,13,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Guadalajara 3,Guadalajara,Airport,2011-10-20,155.87
+30,33,10,Teddy Bear,Toys,10.99,12.99,Maven Toys Guadalajara 3,Guadalajara,Airport,2011-10-20,109.9
+30,34,18,Toy Robot,Electronics,20.99,25.99,Maven Toys Guadalajara 3,Guadalajara,Airport,2011-10-20,377.82
+31,1,5,Action Figure,Toys,9.99,15.99,Maven Toys Ciudad de Mexico 2,Cuidad de Mexico,Airport,2012-05-04,49.95
+31,2,36,Animal Figures,Toys,9.99,12.99,Maven Toys Ciudad de Mexico 2,Cuidad de Mexico,Airport,2012-05-04,359.64
+31,3,36,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Ciudad de Mexico 2,Cuidad de Mexico,Airport,2012-05-04,71.64
+31,6,41,Colorbuds,Electronics,6.99,14.99,Maven Toys Ciudad de Mexico 2,Cuidad de Mexico,Airport,2012-05-04,286.59000000000003
+31,7,18,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Ciudad de Mexico 2,Cuidad de Mexico,Airport,2012-05-04,215.82
+31,8,84,Deck Of Cards,Games,3.99,6.99,Maven Toys Ciudad de Mexico 2,Cuidad de Mexico,Airport,2012-05-04,335.16
+31,9,10,Dino Egg,Toys,9.99,10.99,Maven Toys Ciudad de Mexico 2,Cuidad de Mexico,Airport,2012-05-04,99.9
+31,10,139,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Ciudad de Mexico 2,Cuidad de Mexico,Airport,2012-05-04,1527.6100000000001
+31,11,8,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Ciudad de Mexico 2,Cuidad de Mexico,Airport,2012-05-04,87.92
+31,12,13,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Ciudad de Mexico 2,Cuidad de Mexico,Airport,2012-05-04,116.87
+31,13,19,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Ciudad de Mexico 2,Cuidad de Mexico,Airport,2012-05-04,284.81
+31,14,9,Glass Marbles,Games,5.99,10.99,Maven Toys Ciudad de Mexico 2,Cuidad de Mexico,Airport,2012-05-04,53.910000000000004
+31,15,4,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Ciudad de Mexico 2,Cuidad de Mexico,Airport,2012-05-04,15.96
+31,17,19,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Ciudad de Mexico 2,Cuidad de Mexico,Airport,2012-05-04,265.81
+31,18,2,Lego Bricks,Toys,34.99,39.99,Maven Toys Ciudad de Mexico 2,Cuidad de Mexico,Airport,2012-05-04,69.98
+31,19,95,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Ciudad de Mexico 2,Cuidad de Mexico,Airport,2012-05-04,1329.05
+31,21,6,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Ciudad de Mexico 2,Cuidad de Mexico,Airport,2012-05-04,41.94
+31,23,9,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Ciudad de Mexico 2,Cuidad de Mexico,Airport,2012-05-04,44.910000000000004
+31,24,29,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Ciudad de Mexico 2,Cuidad de Mexico,Airport,2012-05-04,434.71
+31,25,94,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Ciudad de Mexico 2,Cuidad de Mexico,Airport,2012-05-04,187.06
+31,26,17,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Ciudad de Mexico 2,Cuidad de Mexico,Airport,2012-05-04,356.83
+31,27,27,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Ciudad de Mexico 2,Cuidad de Mexico,Airport,2012-05-04,107.73
+31,28,10,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Ciudad de Mexico 2,Cuidad de Mexico,Airport,2012-05-04,39.900000000000006
+31,29,28,Plush Pony,Toys,8.99,19.99,Maven Toys Ciudad de Mexico 2,Cuidad de Mexico,Airport,2012-05-04,251.72
+31,30,66,Rubik's Cube,Games,17.99,19.99,Maven Toys Ciudad de Mexico 2,Cuidad de Mexico,Airport,2012-05-04,1187.34
+31,31,39,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Ciudad de Mexico 2,Cuidad de Mexico,Airport,2012-05-04,311.61
+31,32,12,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Ciudad de Mexico 2,Cuidad de Mexico,Airport,2012-05-04,143.88
+31,33,20,Teddy Bear,Toys,10.99,12.99,Maven Toys Ciudad de Mexico 2,Cuidad de Mexico,Airport,2012-05-04,219.8
+31,34,20,Toy Robot,Electronics,20.99,25.99,Maven Toys Ciudad de Mexico 2,Cuidad de Mexico,Airport,2012-05-04,419.79999999999995
+32,1,25,Action Figure,Toys,9.99,15.99,Maven Toys Hermosillo 1,Hermosillo,Residential,2012-08-31,249.75
+32,2,10,Animal Figures,Toys,9.99,12.99,Maven Toys Hermosillo 1,Hermosillo,Residential,2012-08-31,99.9
+32,3,45,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Hermosillo 1,Hermosillo,Residential,2012-08-31,89.55
+32,6,65,Colorbuds,Electronics,6.99,14.99,Maven Toys Hermosillo 1,Hermosillo,Residential,2012-08-31,454.35
+32,7,18,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Hermosillo 1,Hermosillo,Residential,2012-08-31,215.82
+32,8,56,Deck Of Cards,Games,3.99,6.99,Maven Toys Hermosillo 1,Hermosillo,Residential,2012-08-31,223.44
+32,9,3,Dino Egg,Toys,9.99,10.99,Maven Toys Hermosillo 1,Hermosillo,Residential,2012-08-31,29.97
+32,10,138,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Hermosillo 1,Hermosillo,Residential,2012-08-31,1516.6200000000001
+32,11,6,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Hermosillo 1,Hermosillo,Residential,2012-08-31,65.94
+32,12,4,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Hermosillo 1,Hermosillo,Residential,2012-08-31,35.96
+32,13,13,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Hermosillo 1,Hermosillo,Residential,2012-08-31,194.87
+32,14,27,Glass Marbles,Games,5.99,10.99,Maven Toys Hermosillo 1,Hermosillo,Residential,2012-08-31,161.73000000000002
+32,15,27,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Hermosillo 1,Hermosillo,Residential,2012-08-31,107.73
+32,17,8,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Hermosillo 1,Hermosillo,Residential,2012-08-31,111.92
+32,18,40,Lego Bricks,Toys,34.99,39.99,Maven Toys Hermosillo 1,Hermosillo,Residential,2012-08-31,1399.6000000000001
+32,19,35,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Hermosillo 1,Hermosillo,Residential,2012-08-31,489.65000000000003
+32,21,0,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Hermosillo 1,Hermosillo,Residential,2012-08-31,0.0
+32,23,23,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Hermosillo 1,Hermosillo,Residential,2012-08-31,114.77000000000001
+32,24,42,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Hermosillo 1,Hermosillo,Residential,2012-08-31,629.58
+32,25,20,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Hermosillo 1,Hermosillo,Residential,2012-08-31,39.8
+32,26,11,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Hermosillo 1,Hermosillo,Residential,2012-08-31,230.89
+32,27,53,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Hermosillo 1,Hermosillo,Residential,2012-08-31,211.47
+32,28,5,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Hermosillo 1,Hermosillo,Residential,2012-08-31,19.950000000000003
+32,29,4,Plush Pony,Toys,8.99,19.99,Maven Toys Hermosillo 1,Hermosillo,Residential,2012-08-31,35.96
+32,30,28,Rubik's Cube,Games,17.99,19.99,Maven Toys Hermosillo 1,Hermosillo,Residential,2012-08-31,503.71999999999997
+32,31,4,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Hermosillo 1,Hermosillo,Residential,2012-08-31,31.96
+32,32,8,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Hermosillo 1,Hermosillo,Residential,2012-08-31,95.92
+32,33,13,Teddy Bear,Toys,10.99,12.99,Maven Toys Hermosillo 1,Hermosillo,Residential,2012-08-31,142.87
+32,34,20,Toy Robot,Electronics,20.99,25.99,Maven Toys Hermosillo 1,Hermosillo,Residential,2012-08-31,419.79999999999995
+33,1,10,Action Figure,Toys,9.99,15.99,Maven Toys Monterrey 3,Monterrey,Airport,2013-03-17,99.9
+33,2,16,Animal Figures,Toys,9.99,12.99,Maven Toys Monterrey 3,Monterrey,Airport,2013-03-17,159.84
+33,3,21,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Monterrey 3,Monterrey,Airport,2013-03-17,41.79
+33,4,15,Chutes & Ladders,Games,9.99,12.99,Maven Toys Monterrey 3,Monterrey,Airport,2013-03-17,149.85
+33,5,7,Classic Dominoes,Games,7.99,9.99,Maven Toys Monterrey 3,Monterrey,Airport,2013-03-17,55.93
+33,6,8,Colorbuds,Electronics,6.99,14.99,Maven Toys Monterrey 3,Monterrey,Airport,2013-03-17,55.92
+33,7,4,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Monterrey 3,Monterrey,Airport,2013-03-17,47.96
+33,8,66,Deck Of Cards,Games,3.99,6.99,Maven Toys Monterrey 3,Monterrey,Airport,2013-03-17,263.34000000000003
+33,9,3,Dino Egg,Toys,9.99,10.99,Maven Toys Monterrey 3,Monterrey,Airport,2013-03-17,29.97
+33,10,12,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Monterrey 3,Monterrey,Airport,2013-03-17,131.88
+33,11,4,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Monterrey 3,Monterrey,Airport,2013-03-17,43.96
+33,12,17,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Monterrey 3,Monterrey,Airport,2013-03-17,152.83
+33,13,0,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Monterrey 3,Monterrey,Airport,2013-03-17,0.0
+33,14,11,Glass Marbles,Games,5.99,10.99,Maven Toys Monterrey 3,Monterrey,Airport,2013-03-17,65.89
+33,15,0,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Monterrey 3,Monterrey,Airport,2013-03-17,0.0
+33,16,5,Jenga,Games,2.99,9.99,Maven Toys Monterrey 3,Monterrey,Airport,2013-03-17,14.950000000000001
+33,17,2,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Monterrey 3,Monterrey,Airport,2013-03-17,27.98
+33,18,15,Lego Bricks,Toys,34.99,39.99,Maven Toys Monterrey 3,Monterrey,Airport,2013-03-17,524.85
+33,19,61,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Monterrey 3,Monterrey,Airport,2013-03-17,853.39
+33,20,11,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,Maven Toys Monterrey 3,Monterrey,Airport,2013-03-17,98.89
+33,21,13,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Monterrey 3,Monterrey,Airport,2013-03-17,90.87
+33,22,5,Monopoly,Games,13.99,19.99,Maven Toys Monterrey 3,Monterrey,Airport,2013-03-17,69.95
+33,23,22,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Monterrey 3,Monterrey,Airport,2013-03-17,109.78
+33,24,27,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Monterrey 3,Monterrey,Airport,2013-03-17,404.73
+33,25,57,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Monterrey 3,Monterrey,Airport,2013-03-17,113.42999999999999
+33,26,5,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Monterrey 3,Monterrey,Airport,2013-03-17,104.94999999999999
+33,27,6,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Monterrey 3,Monterrey,Airport,2013-03-17,23.94
+33,28,5,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Monterrey 3,Monterrey,Airport,2013-03-17,19.950000000000003
+33,29,9,Plush Pony,Toys,8.99,19.99,Maven Toys Monterrey 3,Monterrey,Airport,2013-03-17,80.91
+33,30,39,Rubik's Cube,Games,17.99,19.99,Maven Toys Monterrey 3,Monterrey,Airport,2013-03-17,701.6099999999999
+33,31,7,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Monterrey 3,Monterrey,Airport,2013-03-17,55.93
+33,32,15,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Monterrey 3,Monterrey,Airport,2013-03-17,179.85
+33,33,9,Teddy Bear,Toys,10.99,12.99,Maven Toys Monterrey 3,Monterrey,Airport,2013-03-17,98.91
+33,34,14,Toy Robot,Electronics,20.99,25.99,Maven Toys Monterrey 3,Monterrey,Airport,2013-03-17,293.85999999999996
+33,35,18,Uno Card Game,Games,3.99,7.99,Maven Toys Monterrey 3,Monterrey,Airport,2013-03-17,71.82000000000001
+34,1,5,Action Figure,Toys,9.99,15.99,Maven Toys Villahermosa 1,Villahermosa,Downtown,2013-06-07,49.95
+34,2,25,Animal Figures,Toys,9.99,12.99,Maven Toys Villahermosa 1,Villahermosa,Downtown,2013-06-07,249.75
+34,3,17,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Villahermosa 1,Villahermosa,Downtown,2013-06-07,33.83
+34,4,15,Chutes & Ladders,Games,9.99,12.99,Maven Toys Villahermosa 1,Villahermosa,Downtown,2013-06-07,149.85
+34,5,7,Classic Dominoes,Games,7.99,9.99,Maven Toys Villahermosa 1,Villahermosa,Downtown,2013-06-07,55.93
+34,6,24,Colorbuds,Electronics,6.99,14.99,Maven Toys Villahermosa 1,Villahermosa,Downtown,2013-06-07,167.76
+34,7,5,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Villahermosa 1,Villahermosa,Downtown,2013-06-07,59.95
+34,8,68,Deck Of Cards,Games,3.99,6.99,Maven Toys Villahermosa 1,Villahermosa,Downtown,2013-06-07,271.32
+34,9,0,Dino Egg,Toys,9.99,10.99,Maven Toys Villahermosa 1,Villahermosa,Downtown,2013-06-07,0.0
+34,10,57,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Villahermosa 1,Villahermosa,Downtown,2013-06-07,626.4300000000001
+34,11,18,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Villahermosa 1,Villahermosa,Downtown,2013-06-07,197.82
+34,12,6,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Villahermosa 1,Villahermosa,Downtown,2013-06-07,53.94
+34,13,3,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Villahermosa 1,Villahermosa,Downtown,2013-06-07,44.97
+34,14,5,Glass Marbles,Games,5.99,10.99,Maven Toys Villahermosa 1,Villahermosa,Downtown,2013-06-07,29.950000000000003
+34,15,10,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Villahermosa 1,Villahermosa,Downtown,2013-06-07,39.900000000000006
+34,16,7,Jenga,Games,2.99,9.99,Maven Toys Villahermosa 1,Villahermosa,Downtown,2013-06-07,20.93
+34,17,19,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Villahermosa 1,Villahermosa,Downtown,2013-06-07,265.81
+34,18,12,Lego Bricks,Toys,34.99,39.99,Maven Toys Villahermosa 1,Villahermosa,Downtown,2013-06-07,419.88
+34,19,14,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Villahermosa 1,Villahermosa,Downtown,2013-06-07,195.86
+34,20,17,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,Maven Toys Villahermosa 1,Villahermosa,Downtown,2013-06-07,152.83
+34,21,22,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Villahermosa 1,Villahermosa,Downtown,2013-06-07,153.78
+34,22,15,Monopoly,Games,13.99,19.99,Maven Toys Villahermosa 1,Villahermosa,Downtown,2013-06-07,209.85
+34,23,13,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Villahermosa 1,Villahermosa,Downtown,2013-06-07,64.87
+34,24,28,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Villahermosa 1,Villahermosa,Downtown,2013-06-07,419.72
+34,25,131,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Villahermosa 1,Villahermosa,Downtown,2013-06-07,260.69
+34,26,3,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Villahermosa 1,Villahermosa,Downtown,2013-06-07,62.97
+34,27,12,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Villahermosa 1,Villahermosa,Downtown,2013-06-07,47.88
+34,28,13,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Villahermosa 1,Villahermosa,Downtown,2013-06-07,51.870000000000005
+34,29,3,Plush Pony,Toys,8.99,19.99,Maven Toys Villahermosa 1,Villahermosa,Downtown,2013-06-07,26.97
+34,30,53,Rubik's Cube,Games,17.99,19.99,Maven Toys Villahermosa 1,Villahermosa,Downtown,2013-06-07,953.4699999999999
+34,31,30,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Villahermosa 1,Villahermosa,Downtown,2013-06-07,239.70000000000002
+34,32,19,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Villahermosa 1,Villahermosa,Downtown,2013-06-07,227.81
+34,33,9,Teddy Bear,Toys,10.99,12.99,Maven Toys Villahermosa 1,Villahermosa,Downtown,2013-06-07,98.91
+34,34,17,Toy Robot,Electronics,20.99,25.99,Maven Toys Villahermosa 1,Villahermosa,Downtown,2013-06-07,356.83
+34,35,20,Uno Card Game,Games,3.99,7.99,Maven Toys Villahermosa 1,Villahermosa,Downtown,2013-06-07,79.80000000000001
+35,1,8,Action Figure,Toys,9.99,15.99,Maven Toys Chilpancingo 1,Chilpancingo,Downtown,2013-06-11,79.92
+35,2,37,Animal Figures,Toys,9.99,12.99,Maven Toys Chilpancingo 1,Chilpancingo,Downtown,2013-06-11,369.63
+35,3,12,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Chilpancingo 1,Chilpancingo,Downtown,2013-06-11,23.88
+35,6,31,Colorbuds,Electronics,6.99,14.99,Maven Toys Chilpancingo 1,Chilpancingo,Downtown,2013-06-11,216.69
+35,7,10,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Chilpancingo 1,Chilpancingo,Downtown,2013-06-11,119.9
+35,8,77,Deck Of Cards,Games,3.99,6.99,Maven Toys Chilpancingo 1,Chilpancingo,Downtown,2013-06-11,307.23
+35,9,4,Dino Egg,Toys,9.99,10.99,Maven Toys Chilpancingo 1,Chilpancingo,Downtown,2013-06-11,39.96
+35,10,86,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Chilpancingo 1,Chilpancingo,Downtown,2013-06-11,945.14
+35,11,8,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Chilpancingo 1,Chilpancingo,Downtown,2013-06-11,87.92
+35,12,15,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Chilpancingo 1,Chilpancingo,Downtown,2013-06-11,134.85
+35,13,3,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Chilpancingo 1,Chilpancingo,Downtown,2013-06-11,44.97
+35,14,38,Glass Marbles,Games,5.99,10.99,Maven Toys Chilpancingo 1,Chilpancingo,Downtown,2013-06-11,227.62
+35,15,0,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Chilpancingo 1,Chilpancingo,Downtown,2013-06-11,0.0
+35,17,10,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Chilpancingo 1,Chilpancingo,Downtown,2013-06-11,139.9
+35,18,11,Lego Bricks,Toys,34.99,39.99,Maven Toys Chilpancingo 1,Chilpancingo,Downtown,2013-06-11,384.89000000000004
+35,19,44,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Chilpancingo 1,Chilpancingo,Downtown,2013-06-11,615.5600000000001
+35,21,6,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Chilpancingo 1,Chilpancingo,Downtown,2013-06-11,41.94
+35,23,5,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Chilpancingo 1,Chilpancingo,Downtown,2013-06-11,24.950000000000003
+35,24,44,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Chilpancingo 1,Chilpancingo,Downtown,2013-06-11,659.5600000000001
+35,25,14,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Chilpancingo 1,Chilpancingo,Downtown,2013-06-11,27.86
+35,26,5,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Chilpancingo 1,Chilpancingo,Downtown,2013-06-11,104.94999999999999
+35,27,16,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Chilpancingo 1,Chilpancingo,Downtown,2013-06-11,63.84
+35,28,20,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Chilpancingo 1,Chilpancingo,Downtown,2013-06-11,79.80000000000001
+35,29,11,Plush Pony,Toys,8.99,19.99,Maven Toys Chilpancingo 1,Chilpancingo,Downtown,2013-06-11,98.89
+35,30,10,Rubik's Cube,Games,17.99,19.99,Maven Toys Chilpancingo 1,Chilpancingo,Downtown,2013-06-11,179.89999999999998
+35,31,74,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Chilpancingo 1,Chilpancingo,Downtown,2013-06-11,591.26
+35,32,20,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Chilpancingo 1,Chilpancingo,Downtown,2013-06-11,239.8
+35,33,14,Teddy Bear,Toys,10.99,12.99,Maven Toys Chilpancingo 1,Chilpancingo,Downtown,2013-06-11,153.86
+35,34,9,Toy Robot,Electronics,20.99,25.99,Maven Toys Chilpancingo 1,Chilpancingo,Downtown,2013-06-11,188.91
+36,1,2,Action Figure,Toys,9.99,15.99,Maven Toys Morelia 1,Morelia,Downtown,2013-07-01,19.98
+36,2,26,Animal Figures,Toys,9.99,12.99,Maven Toys Morelia 1,Morelia,Downtown,2013-07-01,259.74
+36,3,26,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Morelia 1,Morelia,Downtown,2013-07-01,51.74
+36,4,0,Chutes & Ladders,Games,9.99,12.99,Maven Toys Morelia 1,Morelia,Downtown,2013-07-01,0.0
+36,5,3,Classic Dominoes,Games,7.99,9.99,Maven Toys Morelia 1,Morelia,Downtown,2013-07-01,23.97
+36,6,27,Colorbuds,Electronics,6.99,14.99,Maven Toys Morelia 1,Morelia,Downtown,2013-07-01,188.73000000000002
+36,7,15,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Morelia 1,Morelia,Downtown,2013-07-01,179.85
+36,8,58,Deck Of Cards,Games,3.99,6.99,Maven Toys Morelia 1,Morelia,Downtown,2013-07-01,231.42000000000002
+36,9,19,Dino Egg,Toys,9.99,10.99,Maven Toys Morelia 1,Morelia,Downtown,2013-07-01,189.81
+36,10,33,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Morelia 1,Morelia,Downtown,2013-07-01,362.67
+36,11,1,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Morelia 1,Morelia,Downtown,2013-07-01,10.99
+36,12,1,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Morelia 1,Morelia,Downtown,2013-07-01,8.99
+36,13,18,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Morelia 1,Morelia,Downtown,2013-07-01,269.82
+36,14,110,Glass Marbles,Games,5.99,10.99,Maven Toys Morelia 1,Morelia,Downtown,2013-07-01,658.9
+36,15,2,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Morelia 1,Morelia,Downtown,2013-07-01,7.98
+36,16,7,Jenga,Games,2.99,9.99,Maven Toys Morelia 1,Morelia,Downtown,2013-07-01,20.93
+36,17,12,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Morelia 1,Morelia,Downtown,2013-07-01,167.88
+36,18,4,Lego Bricks,Toys,34.99,39.99,Maven Toys Morelia 1,Morelia,Downtown,2013-07-01,139.96
+36,19,28,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Morelia 1,Morelia,Downtown,2013-07-01,391.72
+36,20,2,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,Maven Toys Morelia 1,Morelia,Downtown,2013-07-01,17.98
+36,21,33,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Morelia 1,Morelia,Downtown,2013-07-01,230.67000000000002
+36,22,21,Monopoly,Games,13.99,19.99,Maven Toys Morelia 1,Morelia,Downtown,2013-07-01,293.79
+36,23,19,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Morelia 1,Morelia,Downtown,2013-07-01,94.81
+36,24,9,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Morelia 1,Morelia,Downtown,2013-07-01,134.91
+36,25,125,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Morelia 1,Morelia,Downtown,2013-07-01,248.75
+36,26,7,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Morelia 1,Morelia,Downtown,2013-07-01,146.92999999999998
+36,27,46,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Morelia 1,Morelia,Downtown,2013-07-01,183.54000000000002
+36,28,7,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Morelia 1,Morelia,Downtown,2013-07-01,27.93
+36,29,14,Plush Pony,Toys,8.99,19.99,Maven Toys Morelia 1,Morelia,Downtown,2013-07-01,125.86
+36,30,15,Rubik's Cube,Games,17.99,19.99,Maven Toys Morelia 1,Morelia,Downtown,2013-07-01,269.84999999999997
+36,31,6,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Morelia 1,Morelia,Downtown,2013-07-01,47.94
+36,32,7,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Morelia 1,Morelia,Downtown,2013-07-01,83.93
+36,33,21,Teddy Bear,Toys,10.99,12.99,Maven Toys Morelia 1,Morelia,Downtown,2013-07-01,230.79
+36,34,2,Toy Robot,Electronics,20.99,25.99,Maven Toys Morelia 1,Morelia,Downtown,2013-07-01,41.98
+36,35,12,Uno Card Game,Games,3.99,7.99,Maven Toys Morelia 1,Morelia,Downtown,2013-07-01,47.88
+37,1,23,Action Figure,Toys,9.99,15.99,Maven Toys Ciudad de Mexico 3,Cuidad de Mexico,Residential,2013-11-28,229.77
+37,2,3,Animal Figures,Toys,9.99,12.99,Maven Toys Ciudad de Mexico 3,Cuidad de Mexico,Residential,2013-11-28,29.97
+37,3,4,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Ciudad de Mexico 3,Cuidad de Mexico,Residential,2013-11-28,7.96
+37,4,4,Chutes & Ladders,Games,9.99,12.99,Maven Toys Ciudad de Mexico 3,Cuidad de Mexico,Residential,2013-11-28,39.96
+37,5,2,Classic Dominoes,Games,7.99,9.99,Maven Toys Ciudad de Mexico 3,Cuidad de Mexico,Residential,2013-11-28,15.98
+37,6,17,Colorbuds,Electronics,6.99,14.99,Maven Toys Ciudad de Mexico 3,Cuidad de Mexico,Residential,2013-11-28,118.83
+37,7,16,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Ciudad de Mexico 3,Cuidad de Mexico,Residential,2013-11-28,191.84
+37,8,129,Deck Of Cards,Games,3.99,6.99,Maven Toys Ciudad de Mexico 3,Cuidad de Mexico,Residential,2013-11-28,514.71
+37,9,10,Dino Egg,Toys,9.99,10.99,Maven Toys Ciudad de Mexico 3,Cuidad de Mexico,Residential,2013-11-28,99.9
+37,10,34,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Ciudad de Mexico 3,Cuidad de Mexico,Residential,2013-11-28,373.66
+37,11,7,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Ciudad de Mexico 3,Cuidad de Mexico,Residential,2013-11-28,76.93
+37,12,11,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Ciudad de Mexico 3,Cuidad de Mexico,Residential,2013-11-28,98.89
+37,13,21,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Ciudad de Mexico 3,Cuidad de Mexico,Residential,2013-11-28,314.79
+37,14,5,Glass Marbles,Games,5.99,10.99,Maven Toys Ciudad de Mexico 3,Cuidad de Mexico,Residential,2013-11-28,29.950000000000003
+37,15,4,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Ciudad de Mexico 3,Cuidad de Mexico,Residential,2013-11-28,15.96
+37,16,6,Jenga,Games,2.99,9.99,Maven Toys Ciudad de Mexico 3,Cuidad de Mexico,Residential,2013-11-28,17.94
+37,17,7,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Ciudad de Mexico 3,Cuidad de Mexico,Residential,2013-11-28,97.93
+37,18,6,Lego Bricks,Toys,34.99,39.99,Maven Toys Ciudad de Mexico 3,Cuidad de Mexico,Residential,2013-11-28,209.94
+37,19,69,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Ciudad de Mexico 3,Cuidad de Mexico,Residential,2013-11-28,965.3100000000001
+37,20,11,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,Maven Toys Ciudad de Mexico 3,Cuidad de Mexico,Residential,2013-11-28,98.89
+37,21,53,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Ciudad de Mexico 3,Cuidad de Mexico,Residential,2013-11-28,370.47
+37,22,9,Monopoly,Games,13.99,19.99,Maven Toys Ciudad de Mexico 3,Cuidad de Mexico,Residential,2013-11-28,125.91
+37,23,0,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Ciudad de Mexico 3,Cuidad de Mexico,Residential,2013-11-28,0.0
+37,24,27,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Ciudad de Mexico 3,Cuidad de Mexico,Residential,2013-11-28,404.73
+37,25,34,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Ciudad de Mexico 3,Cuidad de Mexico,Residential,2013-11-28,67.66
+37,26,11,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Ciudad de Mexico 3,Cuidad de Mexico,Residential,2013-11-28,230.89
+37,27,18,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Ciudad de Mexico 3,Cuidad de Mexico,Residential,2013-11-28,71.82000000000001
+37,28,4,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Ciudad de Mexico 3,Cuidad de Mexico,Residential,2013-11-28,15.96
+37,29,5,Plush Pony,Toys,8.99,19.99,Maven Toys Ciudad de Mexico 3,Cuidad de Mexico,Residential,2013-11-28,44.95
+37,30,35,Rubik's Cube,Games,17.99,19.99,Maven Toys Ciudad de Mexico 3,Cuidad de Mexico,Residential,2013-11-28,629.65
+37,31,14,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Ciudad de Mexico 3,Cuidad de Mexico,Residential,2013-11-28,111.86
+37,32,0,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Ciudad de Mexico 3,Cuidad de Mexico,Residential,2013-11-28,0.0
+37,33,10,Teddy Bear,Toys,10.99,12.99,Maven Toys Ciudad de Mexico 3,Cuidad de Mexico,Residential,2013-11-28,109.9
+37,34,13,Toy Robot,Electronics,20.99,25.99,Maven Toys Ciudad de Mexico 3,Cuidad de Mexico,Residential,2013-11-28,272.87
+37,35,14,Uno Card Game,Games,3.99,7.99,Maven Toys Ciudad de Mexico 3,Cuidad de Mexico,Residential,2013-11-28,55.86
+38,1,21,Action Figure,Toys,9.99,15.99,Maven Toys Chihuahua 2,Chihuahua,Downtown,2014-03-18,209.79
+38,2,34,Animal Figures,Toys,9.99,12.99,Maven Toys Chihuahua 2,Chihuahua,Downtown,2014-03-18,339.66
+38,3,54,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Chihuahua 2,Chihuahua,Downtown,2014-03-18,107.46
+38,4,15,Chutes & Ladders,Games,9.99,12.99,Maven Toys Chihuahua 2,Chihuahua,Downtown,2014-03-18,149.85
+38,5,20,Classic Dominoes,Games,7.99,9.99,Maven Toys Chihuahua 2,Chihuahua,Downtown,2014-03-18,159.8
+38,6,54,Colorbuds,Electronics,6.99,14.99,Maven Toys Chihuahua 2,Chihuahua,Downtown,2014-03-18,377.46000000000004
+38,7,84,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Chihuahua 2,Chihuahua,Downtown,2014-03-18,1007.16
+38,8,94,Deck Of Cards,Games,3.99,6.99,Maven Toys Chihuahua 2,Chihuahua,Downtown,2014-03-18,375.06
+38,9,6,Dino Egg,Toys,9.99,10.99,Maven Toys Chihuahua 2,Chihuahua,Downtown,2014-03-18,59.94
+38,10,68,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Chihuahua 2,Chihuahua,Downtown,2014-03-18,747.32
+38,11,2,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Chihuahua 2,Chihuahua,Downtown,2014-03-18,21.98
+38,12,0,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Chihuahua 2,Chihuahua,Downtown,2014-03-18,0.0
+38,13,21,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Chihuahua 2,Chihuahua,Downtown,2014-03-18,314.79
+38,14,7,Glass Marbles,Games,5.99,10.99,Maven Toys Chihuahua 2,Chihuahua,Downtown,2014-03-18,41.93
+38,15,5,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Chihuahua 2,Chihuahua,Downtown,2014-03-18,19.950000000000003
+38,16,6,Jenga,Games,2.99,9.99,Maven Toys Chihuahua 2,Chihuahua,Downtown,2014-03-18,17.94
+38,17,24,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Chihuahua 2,Chihuahua,Downtown,2014-03-18,335.76
+38,18,10,Lego Bricks,Toys,34.99,39.99,Maven Toys Chihuahua 2,Chihuahua,Downtown,2014-03-18,349.90000000000003
+38,19,7,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Chihuahua 2,Chihuahua,Downtown,2014-03-18,97.93
+38,20,11,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,Maven Toys Chihuahua 2,Chihuahua,Downtown,2014-03-18,98.89
+38,21,63,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Chihuahua 2,Chihuahua,Downtown,2014-03-18,440.37
+38,22,8,Monopoly,Games,13.99,19.99,Maven Toys Chihuahua 2,Chihuahua,Downtown,2014-03-18,111.92
+38,23,27,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Chihuahua 2,Chihuahua,Downtown,2014-03-18,134.73000000000002
+38,24,11,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Chihuahua 2,Chihuahua,Downtown,2014-03-18,164.89000000000001
+38,25,57,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Chihuahua 2,Chihuahua,Downtown,2014-03-18,113.42999999999999
+38,26,17,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Chihuahua 2,Chihuahua,Downtown,2014-03-18,356.83
+38,27,24,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Chihuahua 2,Chihuahua,Downtown,2014-03-18,95.76
+38,28,26,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Chihuahua 2,Chihuahua,Downtown,2014-03-18,103.74000000000001
+38,29,25,Plush Pony,Toys,8.99,19.99,Maven Toys Chihuahua 2,Chihuahua,Downtown,2014-03-18,224.75
+38,30,7,Rubik's Cube,Games,17.99,19.99,Maven Toys Chihuahua 2,Chihuahua,Downtown,2014-03-18,125.92999999999999
+38,31,17,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Chihuahua 2,Chihuahua,Downtown,2014-03-18,135.83
+38,32,20,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Chihuahua 2,Chihuahua,Downtown,2014-03-18,239.8
+38,33,9,Teddy Bear,Toys,10.99,12.99,Maven Toys Chihuahua 2,Chihuahua,Downtown,2014-03-18,98.91
+38,34,18,Toy Robot,Electronics,20.99,25.99,Maven Toys Chihuahua 2,Chihuahua,Downtown,2014-03-18,377.82
+38,35,2,Uno Card Game,Games,3.99,7.99,Maven Toys Chihuahua 2,Chihuahua,Downtown,2014-03-18,7.98
+39,1,0,Action Figure,Toys,9.99,15.99,Maven Toys Xalapa 2,Xalapa,Downtown,2014-04-21,0.0
+39,2,9,Animal Figures,Toys,9.99,12.99,Maven Toys Xalapa 2,Xalapa,Downtown,2014-04-21,89.91
+39,3,13,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Xalapa 2,Xalapa,Downtown,2014-04-21,25.87
+39,6,11,Colorbuds,Electronics,6.99,14.99,Maven Toys Xalapa 2,Xalapa,Downtown,2014-04-21,76.89
+39,7,21,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Xalapa 2,Xalapa,Downtown,2014-04-21,251.79
+39,8,90,Deck Of Cards,Games,3.99,6.99,Maven Toys Xalapa 2,Xalapa,Downtown,2014-04-21,359.1
+39,9,6,Dino Egg,Toys,9.99,10.99,Maven Toys Xalapa 2,Xalapa,Downtown,2014-04-21,59.94
+39,10,49,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Xalapa 2,Xalapa,Downtown,2014-04-21,538.51
+39,11,2,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Xalapa 2,Xalapa,Downtown,2014-04-21,21.98
+39,12,3,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Xalapa 2,Xalapa,Downtown,2014-04-21,26.97
+39,13,15,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Xalapa 2,Xalapa,Downtown,2014-04-21,224.85
+39,14,12,Glass Marbles,Games,5.99,10.99,Maven Toys Xalapa 2,Xalapa,Downtown,2014-04-21,71.88
+39,15,0,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Xalapa 2,Xalapa,Downtown,2014-04-21,0.0
+39,17,35,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Xalapa 2,Xalapa,Downtown,2014-04-21,489.65000000000003
+39,18,22,Lego Bricks,Toys,34.99,39.99,Maven Toys Xalapa 2,Xalapa,Downtown,2014-04-21,769.7800000000001
+39,19,9,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Xalapa 2,Xalapa,Downtown,2014-04-21,125.91
+39,21,5,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Xalapa 2,Xalapa,Downtown,2014-04-21,34.95
+39,23,5,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Xalapa 2,Xalapa,Downtown,2014-04-21,24.950000000000003
+39,24,58,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Xalapa 2,Xalapa,Downtown,2014-04-21,869.42
+39,25,40,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Xalapa 2,Xalapa,Downtown,2014-04-21,79.6
+39,26,8,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Xalapa 2,Xalapa,Downtown,2014-04-21,167.92
+39,27,16,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Xalapa 2,Xalapa,Downtown,2014-04-21,63.84
+39,28,0,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Xalapa 2,Xalapa,Downtown,2014-04-21,0.0
+39,29,16,Plush Pony,Toys,8.99,19.99,Maven Toys Xalapa 2,Xalapa,Downtown,2014-04-21,143.84
+39,30,19,Rubik's Cube,Games,17.99,19.99,Maven Toys Xalapa 2,Xalapa,Downtown,2014-04-21,341.80999999999995
+39,31,15,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Xalapa 2,Xalapa,Downtown,2014-04-21,119.85000000000001
+39,32,5,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Xalapa 2,Xalapa,Downtown,2014-04-21,59.95
+39,33,14,Teddy Bear,Toys,10.99,12.99,Maven Toys Xalapa 2,Xalapa,Downtown,2014-04-21,153.86
+39,34,4,Toy Robot,Electronics,20.99,25.99,Maven Toys Xalapa 2,Xalapa,Downtown,2014-04-21,83.96
+40,1,10,Action Figure,Toys,9.99,15.99,Maven Toys Toluca 2,Toluca,Commercial,2014-05-27,99.9
+40,2,29,Animal Figures,Toys,9.99,12.99,Maven Toys Toluca 2,Toluca,Commercial,2014-05-27,289.71
+40,3,9,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Toluca 2,Toluca,Commercial,2014-05-27,17.91
+40,6,29,Colorbuds,Electronics,6.99,14.99,Maven Toys Toluca 2,Toluca,Commercial,2014-05-27,202.71
+40,7,4,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Toluca 2,Toluca,Commercial,2014-05-27,47.96
+40,8,61,Deck Of Cards,Games,3.99,6.99,Maven Toys Toluca 2,Toluca,Commercial,2014-05-27,243.39000000000001
+40,9,11,Dino Egg,Toys,9.99,10.99,Maven Toys Toluca 2,Toluca,Commercial,2014-05-27,109.89
+40,10,66,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Toluca 2,Toluca,Commercial,2014-05-27,725.34
+40,11,10,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Toluca 2,Toluca,Commercial,2014-05-27,109.9
+40,12,2,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Toluca 2,Toluca,Commercial,2014-05-27,17.98
+40,13,2,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Toluca 2,Toluca,Commercial,2014-05-27,29.98
+40,14,13,Glass Marbles,Games,5.99,10.99,Maven Toys Toluca 2,Toluca,Commercial,2014-05-27,77.87
+40,15,1,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Toluca 2,Toluca,Commercial,2014-05-27,3.99
+40,17,19,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Toluca 2,Toluca,Commercial,2014-05-27,265.81
+40,18,26,Lego Bricks,Toys,34.99,39.99,Maven Toys Toluca 2,Toluca,Commercial,2014-05-27,909.74
+40,19,23,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Toluca 2,Toluca,Commercial,2014-05-27,321.77
+40,21,10,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Toluca 2,Toluca,Commercial,2014-05-27,69.9
+40,23,10,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Toluca 2,Toluca,Commercial,2014-05-27,49.900000000000006
+40,24,33,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Toluca 2,Toluca,Commercial,2014-05-27,494.67
+40,25,13,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Toluca 2,Toluca,Commercial,2014-05-27,25.87
+40,26,4,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Toluca 2,Toluca,Commercial,2014-05-27,83.96
+40,27,25,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Toluca 2,Toluca,Commercial,2014-05-27,99.75
+40,28,0,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Toluca 2,Toluca,Commercial,2014-05-27,0.0
+40,29,1,Plush Pony,Toys,8.99,19.99,Maven Toys Toluca 2,Toluca,Commercial,2014-05-27,8.99
+40,30,28,Rubik's Cube,Games,17.99,19.99,Maven Toys Toluca 2,Toluca,Commercial,2014-05-27,503.71999999999997
+40,31,5,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Toluca 2,Toluca,Commercial,2014-05-27,39.95
+40,32,7,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Toluca 2,Toluca,Commercial,2014-05-27,83.93
+40,33,16,Teddy Bear,Toys,10.99,12.99,Maven Toys Toluca 2,Toluca,Commercial,2014-05-27,175.84
+40,34,5,Toy Robot,Electronics,20.99,25.99,Maven Toys Toluca 2,Toluca,Commercial,2014-05-27,104.94999999999999
+41,1,21,Action Figure,Toys,9.99,15.99,Maven Toys Hermosillo 2,Hermosillo,Downtown,2014-06-01,209.79
+41,2,19,Animal Figures,Toys,9.99,12.99,Maven Toys Hermosillo 2,Hermosillo,Downtown,2014-06-01,189.81
+41,3,63,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Hermosillo 2,Hermosillo,Downtown,2014-06-01,125.37
+41,4,0,Chutes & Ladders,Games,9.99,12.99,Maven Toys Hermosillo 2,Hermosillo,Downtown,2014-06-01,0.0
+41,5,8,Classic Dominoes,Games,7.99,9.99,Maven Toys Hermosillo 2,Hermosillo,Downtown,2014-06-01,63.92
+41,6,7,Colorbuds,Electronics,6.99,14.99,Maven Toys Hermosillo 2,Hermosillo,Downtown,2014-06-01,48.93
+41,7,14,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Hermosillo 2,Hermosillo,Downtown,2014-06-01,167.86
+41,8,32,Deck Of Cards,Games,3.99,6.99,Maven Toys Hermosillo 2,Hermosillo,Downtown,2014-06-01,127.68
+41,9,18,Dino Egg,Toys,9.99,10.99,Maven Toys Hermosillo 2,Hermosillo,Downtown,2014-06-01,179.82
+41,10,94,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Hermosillo 2,Hermosillo,Downtown,2014-06-01,1033.06
+41,11,0,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Hermosillo 2,Hermosillo,Downtown,2014-06-01,0.0
+41,12,19,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Hermosillo 2,Hermosillo,Downtown,2014-06-01,170.81
+41,13,6,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Hermosillo 2,Hermosillo,Downtown,2014-06-01,89.94
+41,14,6,Glass Marbles,Games,5.99,10.99,Maven Toys Hermosillo 2,Hermosillo,Downtown,2014-06-01,35.94
+41,15,6,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Hermosillo 2,Hermosillo,Downtown,2014-06-01,23.94
+41,16,17,Jenga,Games,2.99,9.99,Maven Toys Hermosillo 2,Hermosillo,Downtown,2014-06-01,50.830000000000005
+41,17,3,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Hermosillo 2,Hermosillo,Downtown,2014-06-01,41.97
+41,18,9,Lego Bricks,Toys,34.99,39.99,Maven Toys Hermosillo 2,Hermosillo,Downtown,2014-06-01,314.91
+41,19,100,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Hermosillo 2,Hermosillo,Downtown,2014-06-01,1399.0
+41,20,17,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,Maven Toys Hermosillo 2,Hermosillo,Downtown,2014-06-01,152.83
+41,21,29,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Hermosillo 2,Hermosillo,Downtown,2014-06-01,202.71
+41,22,9,Monopoly,Games,13.99,19.99,Maven Toys Hermosillo 2,Hermosillo,Downtown,2014-06-01,125.91
+41,23,19,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Hermosillo 2,Hermosillo,Downtown,2014-06-01,94.81
+41,24,4,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Hermosillo 2,Hermosillo,Downtown,2014-06-01,59.96
+41,25,19,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Hermosillo 2,Hermosillo,Downtown,2014-06-01,37.81
+41,26,2,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Hermosillo 2,Hermosillo,Downtown,2014-06-01,41.98
+41,27,25,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Hermosillo 2,Hermosillo,Downtown,2014-06-01,99.75
+41,28,0,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Hermosillo 2,Hermosillo,Downtown,2014-06-01,0.0
+41,29,0,Plush Pony,Toys,8.99,19.99,Maven Toys Hermosillo 2,Hermosillo,Downtown,2014-06-01,0.0
+41,30,74,Rubik's Cube,Games,17.99,19.99,Maven Toys Hermosillo 2,Hermosillo,Downtown,2014-06-01,1331.26
+41,31,18,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Hermosillo 2,Hermosillo,Downtown,2014-06-01,143.82
+41,32,29,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Hermosillo 2,Hermosillo,Downtown,2014-06-01,347.71
+41,33,13,Teddy Bear,Toys,10.99,12.99,Maven Toys Hermosillo 2,Hermosillo,Downtown,2014-06-01,142.87
+41,34,15,Toy Robot,Electronics,20.99,25.99,Maven Toys Hermosillo 2,Hermosillo,Downtown,2014-06-01,314.84999999999997
+41,35,10,Uno Card Game,Games,3.99,7.99,Maven Toys Hermosillo 2,Hermosillo,Downtown,2014-06-01,39.900000000000006
+42,1,8,Action Figure,Toys,9.99,15.99,Maven Toys Hermosillo 3,Hermosillo,Commercial,2014-06-27,79.92
+42,2,10,Animal Figures,Toys,9.99,12.99,Maven Toys Hermosillo 3,Hermosillo,Commercial,2014-06-27,99.9
+42,3,32,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Hermosillo 3,Hermosillo,Commercial,2014-06-27,63.68
+42,4,11,Chutes & Ladders,Games,9.99,12.99,Maven Toys Hermosillo 3,Hermosillo,Commercial,2014-06-27,109.89
+42,5,12,Classic Dominoes,Games,7.99,9.99,Maven Toys Hermosillo 3,Hermosillo,Commercial,2014-06-27,95.88
+42,6,29,Colorbuds,Electronics,6.99,14.99,Maven Toys Hermosillo 3,Hermosillo,Commercial,2014-06-27,202.71
+42,7,7,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Hermosillo 3,Hermosillo,Commercial,2014-06-27,83.93
+42,8,54,Deck Of Cards,Games,3.99,6.99,Maven Toys Hermosillo 3,Hermosillo,Commercial,2014-06-27,215.46
+42,9,30,Dino Egg,Toys,9.99,10.99,Maven Toys Hermosillo 3,Hermosillo,Commercial,2014-06-27,299.7
+42,10,39,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Hermosillo 3,Hermosillo,Commercial,2014-06-27,428.61
+42,11,20,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Hermosillo 3,Hermosillo,Commercial,2014-06-27,219.8
+42,12,10,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Hermosillo 3,Hermosillo,Commercial,2014-06-27,89.9
+42,13,7,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Hermosillo 3,Hermosillo,Commercial,2014-06-27,104.93
+42,14,13,Glass Marbles,Games,5.99,10.99,Maven Toys Hermosillo 3,Hermosillo,Commercial,2014-06-27,77.87
+42,15,3,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Hermosillo 3,Hermosillo,Commercial,2014-06-27,11.97
+42,16,0,Jenga,Games,2.99,9.99,Maven Toys Hermosillo 3,Hermosillo,Commercial,2014-06-27,0.0
+42,17,11,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Hermosillo 3,Hermosillo,Commercial,2014-06-27,153.89000000000001
+42,18,21,Lego Bricks,Toys,34.99,39.99,Maven Toys Hermosillo 3,Hermosillo,Commercial,2014-06-27,734.7900000000001
+42,19,44,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Hermosillo 3,Hermosillo,Commercial,2014-06-27,615.5600000000001
+42,20,8,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,Maven Toys Hermosillo 3,Hermosillo,Commercial,2014-06-27,71.92
+42,21,69,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Hermosillo 3,Hermosillo,Commercial,2014-06-27,482.31
+42,22,7,Monopoly,Games,13.99,19.99,Maven Toys Hermosillo 3,Hermosillo,Commercial,2014-06-27,97.93
+42,23,31,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Hermosillo 3,Hermosillo,Commercial,2014-06-27,154.69
+42,24,69,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Hermosillo 3,Hermosillo,Commercial,2014-06-27,1034.31
+42,25,46,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Hermosillo 3,Hermosillo,Commercial,2014-06-27,91.54
+42,26,18,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Hermosillo 3,Hermosillo,Commercial,2014-06-27,377.82
+42,27,23,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Hermosillo 3,Hermosillo,Commercial,2014-06-27,91.77000000000001
+42,28,0,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Hermosillo 3,Hermosillo,Commercial,2014-06-27,0.0
+42,29,35,Plush Pony,Toys,8.99,19.99,Maven Toys Hermosillo 3,Hermosillo,Commercial,2014-06-27,314.65000000000003
+42,30,9,Rubik's Cube,Games,17.99,19.99,Maven Toys Hermosillo 3,Hermosillo,Commercial,2014-06-27,161.91
+42,31,11,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Hermosillo 3,Hermosillo,Commercial,2014-06-27,87.89
+42,32,4,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Hermosillo 3,Hermosillo,Commercial,2014-06-27,47.96
+42,33,18,Teddy Bear,Toys,10.99,12.99,Maven Toys Hermosillo 3,Hermosillo,Commercial,2014-06-27,197.82
+42,34,34,Toy Robot,Electronics,20.99,25.99,Maven Toys Hermosillo 3,Hermosillo,Commercial,2014-06-27,713.66
+42,35,13,Uno Card Game,Games,3.99,7.99,Maven Toys Hermosillo 3,Hermosillo,Commercial,2014-06-27,51.870000000000005
+43,1,24,Action Figure,Toys,9.99,15.99,Maven Toys Durango 1,Durango,Downtown,2014-06-30,239.76
+43,2,8,Animal Figures,Toys,9.99,12.99,Maven Toys Durango 1,Durango,Downtown,2014-06-30,79.92
+43,3,20,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Durango 1,Durango,Downtown,2014-06-30,39.8
+43,6,18,Colorbuds,Electronics,6.99,14.99,Maven Toys Durango 1,Durango,Downtown,2014-06-30,125.82000000000001
+43,7,25,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Durango 1,Durango,Downtown,2014-06-30,299.75
+43,8,71,Deck Of Cards,Games,3.99,6.99,Maven Toys Durango 1,Durango,Downtown,2014-06-30,283.29
+43,9,4,Dino Egg,Toys,9.99,10.99,Maven Toys Durango 1,Durango,Downtown,2014-06-30,39.96
+43,10,49,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Durango 1,Durango,Downtown,2014-06-30,538.51
+43,11,3,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Durango 1,Durango,Downtown,2014-06-30,32.97
+43,12,3,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Durango 1,Durango,Downtown,2014-06-30,26.97
+43,13,12,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Durango 1,Durango,Downtown,2014-06-30,179.88
+43,14,16,Glass Marbles,Games,5.99,10.99,Maven Toys Durango 1,Durango,Downtown,2014-06-30,95.84
+43,15,10,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Durango 1,Durango,Downtown,2014-06-30,39.900000000000006
+43,17,18,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Durango 1,Durango,Downtown,2014-06-30,251.82
+43,18,16,Lego Bricks,Toys,34.99,39.99,Maven Toys Durango 1,Durango,Downtown,2014-06-30,559.84
+43,19,17,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Durango 1,Durango,Downtown,2014-06-30,237.83
+43,21,9,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Durango 1,Durango,Downtown,2014-06-30,62.910000000000004
+43,23,2,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Durango 1,Durango,Downtown,2014-06-30,9.98
+43,24,16,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Durango 1,Durango,Downtown,2014-06-30,239.84
+43,25,55,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Durango 1,Durango,Downtown,2014-06-30,109.45
+43,26,6,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Durango 1,Durango,Downtown,2014-06-30,125.94
+43,27,29,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Durango 1,Durango,Downtown,2014-06-30,115.71000000000001
+43,28,4,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Durango 1,Durango,Downtown,2014-06-30,15.96
+43,29,9,Plush Pony,Toys,8.99,19.99,Maven Toys Durango 1,Durango,Downtown,2014-06-30,80.91
+43,30,14,Rubik's Cube,Games,17.99,19.99,Maven Toys Durango 1,Durango,Downtown,2014-06-30,251.85999999999999
+43,31,18,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Durango 1,Durango,Downtown,2014-06-30,143.82
+43,32,38,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Durango 1,Durango,Downtown,2014-06-30,455.62
+43,33,5,Teddy Bear,Toys,10.99,12.99,Maven Toys Durango 1,Durango,Downtown,2014-06-30,54.95
+43,34,7,Toy Robot,Electronics,20.99,25.99,Maven Toys Durango 1,Durango,Downtown,2014-06-30,146.92999999999998
+44,1,0,Action Figure,Toys,9.99,15.99,Maven Toys Puebla 3,Puebla,Residential,2014-12-27,0.0
+44,2,4,Animal Figures,Toys,9.99,12.99,Maven Toys Puebla 3,Puebla,Residential,2014-12-27,39.96
+44,3,19,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Puebla 3,Puebla,Residential,2014-12-27,37.81
+44,5,14,Classic Dominoes,Games,7.99,9.99,Maven Toys Puebla 3,Puebla,Residential,2014-12-27,111.86
+44,6,2,Colorbuds,Electronics,6.99,14.99,Maven Toys Puebla 3,Puebla,Residential,2014-12-27,13.98
+44,7,17,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Puebla 3,Puebla,Residential,2014-12-27,203.83
+44,8,33,Deck Of Cards,Games,3.99,6.99,Maven Toys Puebla 3,Puebla,Residential,2014-12-27,131.67000000000002
+44,10,41,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Puebla 3,Puebla,Residential,2014-12-27,450.59000000000003
+44,11,0,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Puebla 3,Puebla,Residential,2014-12-27,0.0
+44,14,7,Glass Marbles,Games,5.99,10.99,Maven Toys Puebla 3,Puebla,Residential,2014-12-27,41.93
+44,15,4,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Puebla 3,Puebla,Residential,2014-12-27,15.96
+44,16,3,Jenga,Games,2.99,9.99,Maven Toys Puebla 3,Puebla,Residential,2014-12-27,8.97
+44,17,10,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Puebla 3,Puebla,Residential,2014-12-27,139.9
+44,18,117,Lego Bricks,Toys,34.99,39.99,Maven Toys Puebla 3,Puebla,Residential,2014-12-27,4093.8300000000004
+44,24,6,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Puebla 3,Puebla,Residential,2014-12-27,89.94
+44,25,26,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Puebla 3,Puebla,Residential,2014-12-27,51.74
+44,27,24,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Puebla 3,Puebla,Residential,2014-12-27,95.76
+44,30,26,Rubik's Cube,Games,17.99,19.99,Maven Toys Puebla 3,Puebla,Residential,2014-12-27,467.73999999999995
+44,31,8,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Puebla 3,Puebla,Residential,2014-12-27,63.92
+44,32,29,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Puebla 3,Puebla,Residential,2014-12-27,347.71
+44,33,0,Teddy Bear,Toys,10.99,12.99,Maven Toys Puebla 3,Puebla,Residential,2014-12-27,0.0
+44,34,22,Toy Robot,Electronics,20.99,25.99,Maven Toys Puebla 3,Puebla,Residential,2014-12-27,461.78
+45,1,26,Action Figure,Toys,9.99,15.99,Maven Toys Ciudad de Mexico 4,Cuidad de Mexico,Commercial,2015-06-21,259.74
+45,2,23,Animal Figures,Toys,9.99,12.99,Maven Toys Ciudad de Mexico 4,Cuidad de Mexico,Commercial,2015-06-21,229.77
+45,3,63,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Ciudad de Mexico 4,Cuidad de Mexico,Commercial,2015-06-21,125.37
+45,6,8,Colorbuds,Electronics,6.99,14.99,Maven Toys Ciudad de Mexico 4,Cuidad de Mexico,Commercial,2015-06-21,55.92
+45,7,15,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Ciudad de Mexico 4,Cuidad de Mexico,Commercial,2015-06-21,179.85
+45,8,8,Deck Of Cards,Games,3.99,6.99,Maven Toys Ciudad de Mexico 4,Cuidad de Mexico,Commercial,2015-06-21,31.92
+45,9,0,Dino Egg,Toys,9.99,10.99,Maven Toys Ciudad de Mexico 4,Cuidad de Mexico,Commercial,2015-06-21,0.0
+45,10,42,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Ciudad de Mexico 4,Cuidad de Mexico,Commercial,2015-06-21,461.58
+45,11,10,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Ciudad de Mexico 4,Cuidad de Mexico,Commercial,2015-06-21,109.9
+45,12,8,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Ciudad de Mexico 4,Cuidad de Mexico,Commercial,2015-06-21,71.92
+45,13,15,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Ciudad de Mexico 4,Cuidad de Mexico,Commercial,2015-06-21,224.85
+45,14,18,Glass Marbles,Games,5.99,10.99,Maven Toys Ciudad de Mexico 4,Cuidad de Mexico,Commercial,2015-06-21,107.82000000000001
+45,15,19,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Ciudad de Mexico 4,Cuidad de Mexico,Commercial,2015-06-21,75.81
+45,17,4,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Ciudad de Mexico 4,Cuidad de Mexico,Commercial,2015-06-21,55.96
+45,18,14,Lego Bricks,Toys,34.99,39.99,Maven Toys Ciudad de Mexico 4,Cuidad de Mexico,Commercial,2015-06-21,489.86
+45,19,75,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Ciudad de Mexico 4,Cuidad de Mexico,Commercial,2015-06-21,1049.25
+45,21,14,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Ciudad de Mexico 4,Cuidad de Mexico,Commercial,2015-06-21,97.86
+45,23,16,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Ciudad de Mexico 4,Cuidad de Mexico,Commercial,2015-06-21,79.84
+45,24,26,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Ciudad de Mexico 4,Cuidad de Mexico,Commercial,2015-06-21,389.74
+45,25,57,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Ciudad de Mexico 4,Cuidad de Mexico,Commercial,2015-06-21,113.42999999999999
+45,26,14,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Ciudad de Mexico 4,Cuidad de Mexico,Commercial,2015-06-21,293.85999999999996
+45,27,14,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Ciudad de Mexico 4,Cuidad de Mexico,Commercial,2015-06-21,55.86
+45,28,0,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Ciudad de Mexico 4,Cuidad de Mexico,Commercial,2015-06-21,0.0
+45,29,4,Plush Pony,Toys,8.99,19.99,Maven Toys Ciudad de Mexico 4,Cuidad de Mexico,Commercial,2015-06-21,35.96
+45,30,36,Rubik's Cube,Games,17.99,19.99,Maven Toys Ciudad de Mexico 4,Cuidad de Mexico,Commercial,2015-06-21,647.64
+45,31,6,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Ciudad de Mexico 4,Cuidad de Mexico,Commercial,2015-06-21,47.94
+45,32,6,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Ciudad de Mexico 4,Cuidad de Mexico,Commercial,2015-06-21,71.94
+45,33,7,Teddy Bear,Toys,10.99,12.99,Maven Toys Ciudad de Mexico 4,Cuidad de Mexico,Commercial,2015-06-21,76.93
+45,34,3,Toy Robot,Electronics,20.99,25.99,Maven Toys Ciudad de Mexico 4,Cuidad de Mexico,Commercial,2015-06-21,62.97
+46,1,11,Action Figure,Toys,9.99,15.99,Maven Toys Guadalajara 4,Guadalajara,Downtown,2015-10-31,109.89
+46,2,3,Animal Figures,Toys,9.99,12.99,Maven Toys Guadalajara 4,Guadalajara,Downtown,2015-10-31,29.97
+46,3,24,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Guadalajara 4,Guadalajara,Downtown,2015-10-31,47.76
+46,6,65,Colorbuds,Electronics,6.99,14.99,Maven Toys Guadalajara 4,Guadalajara,Downtown,2015-10-31,454.35
+46,7,15,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Guadalajara 4,Guadalajara,Downtown,2015-10-31,179.85
+46,8,74,Deck Of Cards,Games,3.99,6.99,Maven Toys Guadalajara 4,Guadalajara,Downtown,2015-10-31,295.26
+46,9,22,Dino Egg,Toys,9.99,10.99,Maven Toys Guadalajara 4,Guadalajara,Downtown,2015-10-31,219.78
+46,10,71,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Guadalajara 4,Guadalajara,Downtown,2015-10-31,780.29
+46,11,12,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Guadalajara 4,Guadalajara,Downtown,2015-10-31,131.88
+46,12,13,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Guadalajara 4,Guadalajara,Downtown,2015-10-31,116.87
+46,13,6,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Guadalajara 4,Guadalajara,Downtown,2015-10-31,89.94
+46,14,29,Glass Marbles,Games,5.99,10.99,Maven Toys Guadalajara 4,Guadalajara,Downtown,2015-10-31,173.71
+46,15,6,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Guadalajara 4,Guadalajara,Downtown,2015-10-31,23.94
+46,17,40,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Guadalajara 4,Guadalajara,Downtown,2015-10-31,559.6
+46,18,21,Lego Bricks,Toys,34.99,39.99,Maven Toys Guadalajara 4,Guadalajara,Downtown,2015-10-31,734.7900000000001
+46,19,58,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Guadalajara 4,Guadalajara,Downtown,2015-10-31,811.42
+46,21,2,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Guadalajara 4,Guadalajara,Downtown,2015-10-31,13.98
+46,23,23,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Guadalajara 4,Guadalajara,Downtown,2015-10-31,114.77000000000001
+46,24,10,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Guadalajara 4,Guadalajara,Downtown,2015-10-31,149.9
+46,25,37,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Guadalajara 4,Guadalajara,Downtown,2015-10-31,73.63
+46,26,14,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Guadalajara 4,Guadalajara,Downtown,2015-10-31,293.85999999999996
+46,27,25,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Guadalajara 4,Guadalajara,Downtown,2015-10-31,99.75
+46,28,1,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Guadalajara 4,Guadalajara,Downtown,2015-10-31,3.99
+46,29,3,Plush Pony,Toys,8.99,19.99,Maven Toys Guadalajara 4,Guadalajara,Downtown,2015-10-31,26.97
+46,30,9,Rubik's Cube,Games,17.99,19.99,Maven Toys Guadalajara 4,Guadalajara,Downtown,2015-10-31,161.91
+46,31,13,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Guadalajara 4,Guadalajara,Downtown,2015-10-31,103.87
+46,32,8,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Guadalajara 4,Guadalajara,Downtown,2015-10-31,95.92
+46,33,11,Teddy Bear,Toys,10.99,12.99,Maven Toys Guadalajara 4,Guadalajara,Downtown,2015-10-31,120.89
+46,34,24,Toy Robot,Electronics,20.99,25.99,Maven Toys Guadalajara 4,Guadalajara,Downtown,2015-10-31,503.76
+47,1,11,Action Figure,Toys,9.99,15.99,Maven Toys Monterrey 4,Monterrey,Commercial,2015-11-21,109.89
+47,2,15,Animal Figures,Toys,9.99,12.99,Maven Toys Monterrey 4,Monterrey,Commercial,2015-11-21,149.85
+47,3,74,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Monterrey 4,Monterrey,Commercial,2015-11-21,147.26
+47,6,11,Colorbuds,Electronics,6.99,14.99,Maven Toys Monterrey 4,Monterrey,Commercial,2015-11-21,76.89
+47,7,4,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Monterrey 4,Monterrey,Commercial,2015-11-21,47.96
+47,8,70,Deck Of Cards,Games,3.99,6.99,Maven Toys Monterrey 4,Monterrey,Commercial,2015-11-21,279.3
+47,9,6,Dino Egg,Toys,9.99,10.99,Maven Toys Monterrey 4,Monterrey,Commercial,2015-11-21,59.94
+47,10,20,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Monterrey 4,Monterrey,Commercial,2015-11-21,219.8
+47,11,10,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Monterrey 4,Monterrey,Commercial,2015-11-21,109.9
+47,12,5,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Monterrey 4,Monterrey,Commercial,2015-11-21,44.95
+47,13,15,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Monterrey 4,Monterrey,Commercial,2015-11-21,224.85
+47,14,11,Glass Marbles,Games,5.99,10.99,Maven Toys Monterrey 4,Monterrey,Commercial,2015-11-21,65.89
+47,15,3,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Monterrey 4,Monterrey,Commercial,2015-11-21,11.97
+47,17,8,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Monterrey 4,Monterrey,Commercial,2015-11-21,111.92
+47,18,12,Lego Bricks,Toys,34.99,39.99,Maven Toys Monterrey 4,Monterrey,Commercial,2015-11-21,419.88
+47,19,68,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Monterrey 4,Monterrey,Commercial,2015-11-21,951.32
+47,21,25,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Monterrey 4,Monterrey,Commercial,2015-11-21,174.75
+47,23,29,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Monterrey 4,Monterrey,Commercial,2015-11-21,144.71
+47,24,24,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Monterrey 4,Monterrey,Commercial,2015-11-21,359.76
+47,25,14,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Monterrey 4,Monterrey,Commercial,2015-11-21,27.86
+47,26,23,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Monterrey 4,Monterrey,Commercial,2015-11-21,482.77
+47,27,36,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Monterrey 4,Monterrey,Commercial,2015-11-21,143.64000000000001
+47,28,4,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Monterrey 4,Monterrey,Commercial,2015-11-21,15.96
+47,29,10,Plush Pony,Toys,8.99,19.99,Maven Toys Monterrey 4,Monterrey,Commercial,2015-11-21,89.9
+47,30,36,Rubik's Cube,Games,17.99,19.99,Maven Toys Monterrey 4,Monterrey,Commercial,2015-11-21,647.64
+47,31,48,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Monterrey 4,Monterrey,Commercial,2015-11-21,383.52
+47,32,6,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Monterrey 4,Monterrey,Commercial,2015-11-21,71.94
+47,33,13,Teddy Bear,Toys,10.99,12.99,Maven Toys Monterrey 4,Monterrey,Commercial,2015-11-21,142.87
+47,34,3,Toy Robot,Electronics,20.99,25.99,Maven Toys Monterrey 4,Monterrey,Commercial,2015-11-21,62.97
+48,1,3,Action Figure,Toys,9.99,15.99,Maven Toys Saltillo 2,Saltillo,Commercial,2016-03-23,29.97
+48,2,23,Animal Figures,Toys,9.99,12.99,Maven Toys Saltillo 2,Saltillo,Commercial,2016-03-23,229.77
+48,3,35,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Saltillo 2,Saltillo,Commercial,2016-03-23,69.65
+48,4,15,Chutes & Ladders,Games,9.99,12.99,Maven Toys Saltillo 2,Saltillo,Commercial,2016-03-23,149.85
+48,5,9,Classic Dominoes,Games,7.99,9.99,Maven Toys Saltillo 2,Saltillo,Commercial,2016-03-23,71.91
+48,6,6,Colorbuds,Electronics,6.99,14.99,Maven Toys Saltillo 2,Saltillo,Commercial,2016-03-23,41.94
+48,7,28,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Saltillo 2,Saltillo,Commercial,2016-03-23,335.72
+48,8,100,Deck Of Cards,Games,3.99,6.99,Maven Toys Saltillo 2,Saltillo,Commercial,2016-03-23,399.0
+48,9,13,Dino Egg,Toys,9.99,10.99,Maven Toys Saltillo 2,Saltillo,Commercial,2016-03-23,129.87
+48,10,52,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Saltillo 2,Saltillo,Commercial,2016-03-23,571.48
+48,11,6,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Saltillo 2,Saltillo,Commercial,2016-03-23,65.94
+48,12,1,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Saltillo 2,Saltillo,Commercial,2016-03-23,8.99
+48,13,56,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Saltillo 2,Saltillo,Commercial,2016-03-23,839.44
+48,14,11,Glass Marbles,Games,5.99,10.99,Maven Toys Saltillo 2,Saltillo,Commercial,2016-03-23,65.89
+48,15,3,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Saltillo 2,Saltillo,Commercial,2016-03-23,11.97
+48,16,5,Jenga,Games,2.99,9.99,Maven Toys Saltillo 2,Saltillo,Commercial,2016-03-23,14.950000000000001
+48,17,9,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Saltillo 2,Saltillo,Commercial,2016-03-23,125.91
+48,18,10,Lego Bricks,Toys,34.99,39.99,Maven Toys Saltillo 2,Saltillo,Commercial,2016-03-23,349.90000000000003
+48,19,59,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Saltillo 2,Saltillo,Commercial,2016-03-23,825.41
+48,20,10,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,Maven Toys Saltillo 2,Saltillo,Commercial,2016-03-23,89.9
+48,21,8,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Saltillo 2,Saltillo,Commercial,2016-03-23,55.92
+48,22,2,Monopoly,Games,13.99,19.99,Maven Toys Saltillo 2,Saltillo,Commercial,2016-03-23,27.98
+48,23,1,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Saltillo 2,Saltillo,Commercial,2016-03-23,4.99
+48,24,40,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Saltillo 2,Saltillo,Commercial,2016-03-23,599.6
+48,25,23,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Saltillo 2,Saltillo,Commercial,2016-03-23,45.77
+48,26,2,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Saltillo 2,Saltillo,Commercial,2016-03-23,41.98
+48,27,17,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Saltillo 2,Saltillo,Commercial,2016-03-23,67.83
+48,28,1,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Saltillo 2,Saltillo,Commercial,2016-03-23,3.99
+48,29,20,Plush Pony,Toys,8.99,19.99,Maven Toys Saltillo 2,Saltillo,Commercial,2016-03-23,179.8
+48,30,49,Rubik's Cube,Games,17.99,19.99,Maven Toys Saltillo 2,Saltillo,Commercial,2016-03-23,881.5099999999999
+48,31,41,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Saltillo 2,Saltillo,Commercial,2016-03-23,327.59000000000003
+48,32,7,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Saltillo 2,Saltillo,Commercial,2016-03-23,83.93
+48,33,0,Teddy Bear,Toys,10.99,12.99,Maven Toys Saltillo 2,Saltillo,Commercial,2016-03-23,0.0
+48,34,39,Toy Robot,Electronics,20.99,25.99,Maven Toys Saltillo 2,Saltillo,Commercial,2016-03-23,818.6099999999999
+48,35,3,Uno Card Game,Games,3.99,7.99,Maven Toys Saltillo 2,Saltillo,Commercial,2016-03-23,11.97
+49,1,30,Action Figure,Toys,9.99,15.99,Maven Toys Culiacan 1,Culiacan,Downtown,2016-05-10,299.7
+49,2,0,Animal Figures,Toys,9.99,12.99,Maven Toys Culiacan 1,Culiacan,Downtown,2016-05-10,0.0
+49,3,14,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Culiacan 1,Culiacan,Downtown,2016-05-10,27.86
+49,4,19,Chutes & Ladders,Games,9.99,12.99,Maven Toys Culiacan 1,Culiacan,Downtown,2016-05-10,189.81
+49,5,13,Classic Dominoes,Games,7.99,9.99,Maven Toys Culiacan 1,Culiacan,Downtown,2016-05-10,103.87
+49,6,23,Colorbuds,Electronics,6.99,14.99,Maven Toys Culiacan 1,Culiacan,Downtown,2016-05-10,160.77
+49,7,24,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Culiacan 1,Culiacan,Downtown,2016-05-10,287.76
+49,8,77,Deck Of Cards,Games,3.99,6.99,Maven Toys Culiacan 1,Culiacan,Downtown,2016-05-10,307.23
+49,9,25,Dino Egg,Toys,9.99,10.99,Maven Toys Culiacan 1,Culiacan,Downtown,2016-05-10,249.75
+49,10,36,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Culiacan 1,Culiacan,Downtown,2016-05-10,395.64
+49,11,18,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Culiacan 1,Culiacan,Downtown,2016-05-10,197.82
+49,12,14,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Culiacan 1,Culiacan,Downtown,2016-05-10,125.86
+49,13,18,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Culiacan 1,Culiacan,Downtown,2016-05-10,269.82
+49,14,37,Glass Marbles,Games,5.99,10.99,Maven Toys Culiacan 1,Culiacan,Downtown,2016-05-10,221.63
+49,15,0,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Culiacan 1,Culiacan,Downtown,2016-05-10,0.0
+49,16,1,Jenga,Games,2.99,9.99,Maven Toys Culiacan 1,Culiacan,Downtown,2016-05-10,2.99
+49,17,9,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Culiacan 1,Culiacan,Downtown,2016-05-10,125.91
+49,18,36,Lego Bricks,Toys,34.99,39.99,Maven Toys Culiacan 1,Culiacan,Downtown,2016-05-10,1259.64
+49,19,48,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Culiacan 1,Culiacan,Downtown,2016-05-10,671.52
+49,20,13,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,Maven Toys Culiacan 1,Culiacan,Downtown,2016-05-10,116.87
+49,21,37,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Culiacan 1,Culiacan,Downtown,2016-05-10,258.63
+49,22,8,Monopoly,Games,13.99,19.99,Maven Toys Culiacan 1,Culiacan,Downtown,2016-05-10,111.92
+49,23,18,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Culiacan 1,Culiacan,Downtown,2016-05-10,89.82000000000001
+49,24,23,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Culiacan 1,Culiacan,Downtown,2016-05-10,344.77
+49,25,23,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Culiacan 1,Culiacan,Downtown,2016-05-10,45.77
+49,26,19,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Culiacan 1,Culiacan,Downtown,2016-05-10,398.80999999999995
+49,27,32,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Culiacan 1,Culiacan,Downtown,2016-05-10,127.68
+49,28,10,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Culiacan 1,Culiacan,Downtown,2016-05-10,39.900000000000006
+49,29,12,Plush Pony,Toys,8.99,19.99,Maven Toys Culiacan 1,Culiacan,Downtown,2016-05-10,107.88
+49,30,3,Rubik's Cube,Games,17.99,19.99,Maven Toys Culiacan 1,Culiacan,Downtown,2016-05-10,53.97
+49,31,51,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Culiacan 1,Culiacan,Downtown,2016-05-10,407.49
+49,32,11,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Culiacan 1,Culiacan,Downtown,2016-05-10,131.89000000000001
+49,33,15,Teddy Bear,Toys,10.99,12.99,Maven Toys Culiacan 1,Culiacan,Downtown,2016-05-10,164.85
+49,34,2,Toy Robot,Electronics,20.99,25.99,Maven Toys Culiacan 1,Culiacan,Downtown,2016-05-10,41.98
+49,35,19,Uno Card Game,Games,3.99,7.99,Maven Toys Culiacan 1,Culiacan,Downtown,2016-05-10,75.81
+50,1,18,Action Figure,Toys,9.99,15.99,Maven Toys Guanajuato 3,Guanajuato,Residential,2016-05-18,179.82
+50,2,49,Animal Figures,Toys,9.99,12.99,Maven Toys Guanajuato 3,Guanajuato,Residential,2016-05-18,489.51
+50,3,22,Barrel O' Slime,Art & Crafts,1.99,3.99,Maven Toys Guanajuato 3,Guanajuato,Residential,2016-05-18,43.78
+50,4,16,Chutes & Ladders,Games,9.99,12.99,Maven Toys Guanajuato 3,Guanajuato,Residential,2016-05-18,159.84
+50,5,3,Classic Dominoes,Games,7.99,9.99,Maven Toys Guanajuato 3,Guanajuato,Residential,2016-05-18,23.97
+50,6,27,Colorbuds,Electronics,6.99,14.99,Maven Toys Guanajuato 3,Guanajuato,Residential,2016-05-18,188.73000000000002
+50,7,13,Dart Gun,Sports & Outdoors,11.99,15.99,Maven Toys Guanajuato 3,Guanajuato,Residential,2016-05-18,155.87
+50,8,51,Deck Of Cards,Games,3.99,6.99,Maven Toys Guanajuato 3,Guanajuato,Residential,2016-05-18,203.49
+50,9,7,Dino Egg,Toys,9.99,10.99,Maven Toys Guanajuato 3,Guanajuato,Residential,2016-05-18,69.93
+50,10,34,Dinosaur Figures,Toys,10.99,14.99,Maven Toys Guanajuato 3,Guanajuato,Residential,2016-05-18,373.66
+50,11,20,Etch A Sketch,Art & Crafts,10.99,20.99,Maven Toys Guanajuato 3,Guanajuato,Residential,2016-05-18,219.8
+50,12,0,Foam Disk Launcher,Sports & Outdoors,8.99,11.99,Maven Toys Guanajuato 3,Guanajuato,Residential,2016-05-18,0.0
+50,13,15,Gamer Headphones,Electronics,14.99,20.99,Maven Toys Guanajuato 3,Guanajuato,Residential,2016-05-18,224.85
+50,14,32,Glass Marbles,Games,5.99,10.99,Maven Toys Guanajuato 3,Guanajuato,Residential,2016-05-18,191.68
+50,15,16,Hot Wheels 5-Pack,Toys,3.99,5.99,Maven Toys Guanajuato 3,Guanajuato,Residential,2016-05-18,63.84
+50,16,5,Jenga,Games,2.99,9.99,Maven Toys Guanajuato 3,Guanajuato,Residential,2016-05-18,14.950000000000001
+50,17,6,Kids Makeup Kit,Art & Crafts,13.99,19.99,Maven Toys Guanajuato 3,Guanajuato,Residential,2016-05-18,83.94
+50,18,51,Lego Bricks,Toys,34.99,39.99,Maven Toys Guanajuato 3,Guanajuato,Residential,2016-05-18,1784.49
+50,19,40,Magic Sand,Art & Crafts,13.99,15.99,Maven Toys Guanajuato 3,Guanajuato,Residential,2016-05-18,559.6
+50,20,17,Mini Basketball Hoop,Sports & Outdoors,8.99,24.99,Maven Toys Guanajuato 3,Guanajuato,Residential,2016-05-18,152.83
+50,21,36,Mini Ping Pong Set,Sports & Outdoors,6.99,9.99,Maven Toys Guanajuato 3,Guanajuato,Residential,2016-05-18,251.64000000000001
+50,22,1,Monopoly,Games,13.99,19.99,Maven Toys Guanajuato 3,Guanajuato,Residential,2016-05-18,13.99
+50,23,23,Mr. Potatohead,Toys,4.99,9.99,Maven Toys Guanajuato 3,Guanajuato,Residential,2016-05-18,114.77000000000001
+50,24,10,Nerf Gun,Sports & Outdoors,14.99,19.99,Maven Toys Guanajuato 3,Guanajuato,Residential,2016-05-18,149.9
+50,25,34,PlayDoh Can,Art & Crafts,1.99,2.99,Maven Toys Guanajuato 3,Guanajuato,Residential,2016-05-18,67.66
+50,26,9,PlayDoh Playset,Art & Crafts,20.99,24.99,Maven Toys Guanajuato 3,Guanajuato,Residential,2016-05-18,188.91
+50,27,14,PlayDoh Toolkit,Art & Crafts,3.99,4.99,Maven Toys Guanajuato 3,Guanajuato,Residential,2016-05-18,55.86
+50,28,0,Playfoam,Art & Crafts,3.99,10.99,Maven Toys Guanajuato 3,Guanajuato,Residential,2016-05-18,0.0
+50,29,15,Plush Pony,Toys,8.99,19.99,Maven Toys Guanajuato 3,Guanajuato,Residential,2016-05-18,134.85
+50,30,4,Rubik's Cube,Games,17.99,19.99,Maven Toys Guanajuato 3,Guanajuato,Residential,2016-05-18,71.96
+50,31,18,Splash Balls,Sports & Outdoors,7.99,8.99,Maven Toys Guanajuato 3,Guanajuato,Residential,2016-05-18,143.82
+50,32,9,Supersoaker Water Gun,Sports & Outdoors,11.99,14.99,Maven Toys Guanajuato 3,Guanajuato,Residential,2016-05-18,107.91
+50,33,1,Teddy Bear,Toys,10.99,12.99,Maven Toys Guanajuato 3,Guanajuato,Residential,2016-05-18,10.99
+50,34,17,Toy Robot,Electronics,20.99,25.99,Maven Toys Guanajuato 3,Guanajuato,Residential,2016-05-18,356.83
+50,35,8,Uno Card Game,Games,3.99,7.99,Maven Toys Guanajuato 3,Guanajuato,Residential,2016-05-18,31.92
